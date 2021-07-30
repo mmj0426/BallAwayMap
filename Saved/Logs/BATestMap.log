@@ -901,3 +901,1486 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.30-09.17.19:316][364]LogDirectoryWatcher: Display: A directory notification failed for 'E:/BallAwayMap/Content/Collections/' because it could not be accessed. Aborting watch request...
 [2021.07.30-09.17.19:316][364]LogDirectoryWatcher: Display: A directory notification failed for 'E:/BallAwayMap/Content/Developers/ManDu/Collections/' because it could not be accessed. Aborting watch request...
 [2021.07.30-09.17.19:655][365]LogDirectoryWatcher: Display: A directory notification failed for 'E:/BallAwayMap/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2021.07.30-09.18.09:220][ 66]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.30-09.18.09:658][112]Cmd: EDIT PASTE
+[2021.07.30-09.18.24:863][ 92]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.30-09.18.25:495][162]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.07.30-09.18.33:433][ 79]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2021.07.30-09.18.43:307][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.07.30-09.18.44:709][202]LogSlate: Window '콘텐츠 저장' being destroyed
+[2021.07.30-09.18.58:142][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.07.30-09.18.59:592][730]LogSlate: Window '콘텐츠 저장' being destroyed
+[2021.07.30-09.18.59:603][730]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.30-09.19.09:330][730]LogSlate: Window '레벨 다른 이름으로 저장' being destroyed
+[2021.07.30-09.19.09:344][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Default" FILE="E:/BallAwayMap/Content/Maps/Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.30-09.19.09:348][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.07.30-09.19.09:354][730]LogSavePackage: Moving 'E:/BallAwayMap/Saved/Default8B2313984288083F9FD9BB9F0641B32F.tmp' to 'E:/BallAwayMap/Content/Maps/Default.umap'
+[2021.07.30-09.19.09:363][730]LogFileHelpers: Saving map 'Default' took 0.024
+[2021.07.30-09.19.09:568][730]LogTexture: Display: 텍스처 빌드: Tex_PolygonSamurai_01 (AutoDXT, 512X512)
+[2021.07.30-09.19.09:568][730]LogTexture: Display: 텍스처 빌드: Tex_PolygonSamurai_03 (AutoDXT, 512X512)
+[2021.07.30-09.19.09:568][730]LogStaticMesh: SM_Wep_Tonfa_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:571][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Weapons/SM_Wep_Tonfa_01.SM_Wep_Tonfa_01
+[2021.07.30-09.19.09:578][730]LogStaticMesh: SM_Wep_Tanto_Covered_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:580][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Weapons/SM_Wep_Tanto_Covered_01.SM_Wep_Tanto_Covered_01
+[2021.07.30-09.19.09:585][730]LogStaticMesh: SM_Wep_Tanto_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:589][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Weapons/SM_Wep_Tanto_01.SM_Wep_Tanto_01
+[2021.07.30-09.19.09:591][730]LogStaticMesh: SM_Wep_Shuriken_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:592][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Weapons/SM_Wep_Shuriken_02.SM_Wep_Shuriken_02
+[2021.07.30-09.19.09:595][730]LogStaticMesh: SM_Wep_Shuriken_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:597][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Weapons/SM_Wep_Shuriken_01.SM_Wep_Shuriken_01
+[2021.07.30-09.19.09:602][730]LogStaticMesh: SM_Wep_Sai_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:605][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Weapons/SM_Wep_Sai_01.SM_Wep_Sai_01
+[2021.07.30-09.19.09:611][730]LogStaticMesh: SM_Wep_Odachi_Covered_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:615][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Weapons/SM_Wep_Odachi_Covered_01.SM_Wep_Odachi_Covered_01
+[2021.07.30-09.19.09:622][730]LogStaticMesh: SM_Wep_Odachi_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:626][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Weapons/SM_Wep_Odachi_01.SM_Wep_Odachi_01
+[2021.07.30-09.19.09:631][730]LogStaticMesh: SM_Wep_Ninjato_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:634][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Weapons/SM_Wep_Ninjato_01.SM_Wep_Ninjato_01
+[2021.07.30-09.19.09:640][730]LogStaticMesh: SM_Wep_Naginata_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:643][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Weapons/SM_Wep_Naginata_02.SM_Wep_Naginata_02
+[2021.07.30-09.19.09:649][730]LogStaticMesh: SM_Wep_Naginata_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:652][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Weapons/SM_Wep_Naginata_01.SM_Wep_Naginata_01
+[2021.07.30-09.19.09:657][730]LogStaticMesh: SM_Wep_Kunai_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:659][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Weapons/SM_Wep_Kunai_02.SM_Wep_Kunai_02
+[2021.07.30-09.19.09:663][730]LogStaticMesh: SM_Wep_Kunai_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:665][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Weapons/SM_Wep_Kunai_01.SM_Wep_Kunai_01
+[2021.07.30-09.19.09:671][730]LogStaticMesh: SM_Wep_JuMonjiYari_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:675][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Weapons/SM_Wep_JuMonjiYari_01.SM_Wep_JuMonjiYari_01
+[2021.07.30-09.19.09:678][730]LogStaticMesh: SM_Wep_BoStaff_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:679][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Weapons/SM_Wep_BoStaff_01.SM_Wep_BoStaff_01
+[2021.07.30-09.19.09:684][730]LogStaticMesh: SM_Prop_Snow_Zen_Lantern_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:688][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Prop_Snow_Zen_Lantern_01.SM_Prop_Snow_Zen_Lantern_01
+[2021.07.30-09.19.09:697][730]LogStaticMesh: SM_Prop_Snow_Zen_Bamboo_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:705][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Prop_Snow_Zen_Bamboo_01.SM_Prop_Snow_Zen_Bamboo_01
+[2021.07.30-09.19.09:712][730]LogStaticMesh: SM_Prop_Snow_Tent_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:715][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Prop_Snow_Tent_01.SM_Prop_Snow_Tent_01
+[2021.07.30-09.19.09:718][730]LogStaticMesh: SM_Prop_Snow_Table_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:719][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Prop_Snow_Table_03.SM_Prop_Snow_Table_03
+[2021.07.30-09.19.09:725][730]LogStaticMesh: SM_Prop_Snow_Table_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:729][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Prop_Snow_Table_01.SM_Prop_Snow_Table_01
+[2021.07.30-09.19.09:733][730]LogStaticMesh: SM_Prop_Snow_StoneCircle_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:735][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Prop_Snow_StoneCircle_01.SM_Prop_Snow_StoneCircle_01
+[2021.07.30-09.19.09:742][730]LogStaticMesh: SM_Prop_Snow_StoneBrazier_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:747][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Prop_Snow_StoneBrazier_03.SM_Prop_Snow_StoneBrazier_03
+[2021.07.30-09.19.09:755][730]LogStaticMesh: SM_Prop_Snow_StoneBrazier_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:758][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Prop_Snow_StoneBrazier_02.SM_Prop_Snow_StoneBrazier_02
+[2021.07.30-09.19.09:767][730]LogStaticMesh: SM_Prop_Snow_StoneBrazier_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:772][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Prop_Snow_StoneBrazier_01.SM_Prop_Snow_StoneBrazier_01
+[2021.07.30-09.19.09:779][730]LogStaticMesh: SM_Prop_Snow_Stone_Lantern_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:785][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Prop_Snow_Stone_Lantern_02.SM_Prop_Snow_Stone_Lantern_02
+[2021.07.30-09.19.09:791][730]LogStaticMesh: SM_Prop_Snow_Stone_Lantern_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:795][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Prop_Snow_Stone_Lantern_01.SM_Prop_Snow_Stone_Lantern_01
+[2021.07.30-09.19.09:797][730]LogStaticMesh: SM_Prop_Snow_Rope_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:798][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Prop_Snow_Rope_01.SM_Prop_Snow_Rope_01
+[2021.07.30-09.19.09:801][730]LogStaticMesh: SM_Prop_Snow_Pot_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:803][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Prop_Snow_Pot_03.SM_Prop_Snow_Pot_03
+[2021.07.30-09.19.09:807][730]LogStaticMesh: SM_Prop_Snow_Pot_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:809][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Prop_Snow_Pot_01.SM_Prop_Snow_Pot_01
+[2021.07.30-09.19.09:813][730]LogStaticMesh: SM_Prop_Snow_Paper_Lantern_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:814][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Prop_Snow_Paper_Lantern_02.SM_Prop_Snow_Paper_Lantern_02
+[2021.07.30-09.19.09:818][730]LogStaticMesh: SM_Prop_Snow_Paper_Lantern_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:821][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Prop_Snow_Paper_Lantern_01.SM_Prop_Snow_Paper_Lantern_01
+[2021.07.30-09.19.09:827][730]LogStaticMesh: SM_Prop_Snow_Gong_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:832][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Prop_Snow_Gong_02.SM_Prop_Snow_Gong_02
+[2021.07.30-09.19.09:839][730]LogStaticMesh: SM_Prop_Snow_Gong_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:843][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Prop_Snow_Gong_01.SM_Prop_Snow_Gong_01
+[2021.07.30-09.19.09:850][730]LogStaticMesh: SM_Prop_Snow_Flag_04 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:854][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Prop_Snow_Flag_04.SM_Prop_Snow_Flag_04
+[2021.07.30-09.19.09:861][730]LogStaticMesh: SM_Prop_Snow_Flag_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:867][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Prop_Snow_Flag_03.SM_Prop_Snow_Flag_03
+[2021.07.30-09.19.09:871][730]LogStaticMesh: SM_Prop_Snow_Flag_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:874][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Prop_Snow_Flag_02.SM_Prop_Snow_Flag_02
+[2021.07.30-09.19.09:877][730]LogStaticMesh: SM_Prop_Snow_Flag_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:878][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Prop_Snow_Flag_01.SM_Prop_Snow_Flag_01
+[2021.07.30-09.19.09:882][730]LogStaticMesh: SM_Prop_Snow_Fence_Simple_Straight_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:885][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Prop_Snow_Fence_Simple_Straight_02.SM_Prop_Snow_Fence_Simple_Straight_02
+[2021.07.30-09.19.09:888][730]LogStaticMesh: SM_Prop_Snow_Fence_Simple_Straight_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:889][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Prop_Snow_Fence_Simple_Straight_01.SM_Prop_Snow_Fence_Simple_Straight_01
+[2021.07.30-09.19.09:893][730]LogStaticMesh: SM_Prop_Snow_Bucket_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:896][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Prop_Snow_Bucket_02.SM_Prop_Snow_Bucket_02
+[2021.07.30-09.19.09:900][730]LogStaticMesh: SM_Prop_Snow_Bucket_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:903][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Prop_Snow_Bucket_01.SM_Prop_Snow_Bucket_01
+[2021.07.30-09.19.09:911][730]LogStaticMesh: SM_Prop_Snow_Bowl_Large_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:918][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Prop_Snow_Bowl_Large_01.SM_Prop_Snow_Bowl_Large_01
+[2021.07.30-09.19.09:923][730]LogStaticMesh: SM_Prop_Snow_Bell_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:925][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Prop_Snow_Bell_01.SM_Prop_Snow_Bell_01
+[2021.07.30-09.19.09:931][730]LogStaticMesh: SM_Prop_Snow_Bamboo_Pole_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:933][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Prop_Snow_Bamboo_Pole_02.SM_Prop_Snow_Bamboo_Pole_02
+[2021.07.30-09.19.09:938][730]LogStaticMesh: SM_Env_Snow_Zen_Rock_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:941][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Zen_Rock_02.SM_Env_Snow_Zen_Rock_02
+[2021.07.30-09.19.09:946][730]LogStaticMesh: SM_Env_Snow_Zen_Rock_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:948][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Zen_Rock_01.SM_Env_Snow_Zen_Rock_01
+[2021.07.30-09.19.09:951][730]LogStaticMesh: SM_Env_Snow_WoodEdge_Straight_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:952][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_WoodEdge_Straight_01.SM_Env_Snow_WoodEdge_Straight_01
+[2021.07.30-09.19.09:954][730]LogStaticMesh: SM_Env_Snow_WoodEdge_Corner_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:955][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_WoodEdge_Corner_01.SM_Env_Snow_WoodEdge_Corner_01
+[2021.07.30-09.19.09:977][730]LogStaticMesh: SM_Env_Snow_Tree_04 스태틱 메시 빌드중...
+[2021.07.30-09.19.09:999][730]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Tree_04.SM_Env_Snow_Tree_04
+[2021.07.30-09.19.10:014][730]LogStaticMesh: SM_Env_Snow_Tree_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:023][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Tree_03.SM_Env_Snow_Tree_03
+[2021.07.30-09.19.10:032][730]LogStaticMesh: SM_Env_Snow_Tree_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:036][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Tree_02.SM_Env_Snow_Tree_02
+[2021.07.30-09.19.10:043][730]LogStaticMesh: SM_Env_Snow_Tree_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:047][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Tree_01.SM_Env_Snow_Tree_01
+[2021.07.30-09.19.10:048][730]LogStaticMesh: SM_Env_Snow_Tile_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:048][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Tile_01.SM_Env_Snow_Tile_01
+[2021.07.30-09.19.10:051][730]LogStaticMesh: SM_Env_Snow_SteppingStone_04 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:052][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_SteppingStone_04.SM_Env_Snow_SteppingStone_04
+[2021.07.30-09.19.10:056][730]LogStaticMesh: SM_Env_Snow_SteppingStone_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:057][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_SteppingStone_03.SM_Env_Snow_SteppingStone_03
+[2021.07.30-09.19.10:058][730]LogStaticMesh: SM_Env_Snow_SteppingStone_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:059][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_SteppingStone_02.SM_Env_Snow_SteppingStone_02
+[2021.07.30-09.19.10:060][730]LogStaticMesh: SM_Env_Snow_SteppingStone_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:060][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_SteppingStone_01.SM_Env_Snow_SteppingStone_01
+[2021.07.30-09.19.10:067][730]LogStaticMesh: SM_Env_Snow_Rock_Large_04 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:070][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Rock_Large_04.SM_Env_Snow_Rock_Large_04
+[2021.07.30-09.19.10:076][730]LogStaticMesh: SM_Env_Snow_Rock_Large_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:078][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Rock_Large_03.SM_Env_Snow_Rock_Large_03
+[2021.07.30-09.19.10:086][730]LogStaticMesh: SM_Env_Snow_Rock_Large_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:090][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Rock_Large_02.SM_Env_Snow_Rock_Large_02
+[2021.07.30-09.19.10:100][730]LogStaticMesh: SM_Env_Snow_Rock_Large_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:107][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Rock_Large_01.SM_Env_Snow_Rock_Large_01
+[2021.07.30-09.19.10:110][730]LogStaticMesh: SM_Env_Snow_Rock_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:111][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Rock_03.SM_Env_Snow_Rock_03
+[2021.07.30-09.19.10:113][730]LogStaticMesh: SM_Env_Snow_Rock_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:114][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Rock_02.SM_Env_Snow_Rock_02
+[2021.07.30-09.19.10:116][730]LogStaticMesh: SM_Env_Snow_Rock_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:116][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Rock_01.SM_Env_Snow_Rock_01
+[2021.07.30-09.19.10:118][730]LogStaticMesh: SM_Env_Snow_PondEdge_04 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:119][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_PondEdge_04.SM_Env_Snow_PondEdge_04
+[2021.07.30-09.19.10:126][730]LogStaticMesh: SM_Env_Snow_PondEdge_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:129][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_PondEdge_03.SM_Env_Snow_PondEdge_03
+[2021.07.30-09.19.10:135][730]LogStaticMesh: SM_Env_Snow_PondEdge_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:138][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_PondEdge_02.SM_Env_Snow_PondEdge_02
+[2021.07.30-09.19.10:144][730]LogStaticMesh: SM_Env_Snow_PondEdge_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:146][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_PondEdge_01.SM_Env_Snow_PondEdge_01
+[2021.07.30-09.19.10:149][730]LogStaticMesh: SM_Env_Snow_Plant_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:151][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Plant_02.SM_Env_Snow_Plant_02
+[2021.07.30-09.19.10:155][730]LogStaticMesh: SM_Env_Snow_Plant_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:157][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Plant_01.SM_Env_Snow_Plant_01
+[2021.07.30-09.19.10:161][730]LogStaticMesh: SM_Env_Snow_Path_TSection_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:164][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Path_TSection_01.SM_Env_Snow_Path_TSection_01
+[2021.07.30-09.19.10:169][730]LogStaticMesh: SM_Env_Snow_Path_Straight_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:172][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Path_Straight_02.SM_Env_Snow_Path_Straight_02
+[2021.07.30-09.19.10:177][730]LogStaticMesh: SM_Env_Snow_Path_Straight_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:180][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Path_Straight_01.SM_Env_Snow_Path_Straight_01
+[2021.07.30-09.19.10:185][730]LogStaticMesh: SM_Env_Snow_Path_End_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:189][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Path_End_01.SM_Env_Snow_Path_End_01
+[2021.07.30-09.19.10:195][730]LogStaticMesh: SM_Env_Snow_Path_Corner_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:198][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Path_Corner_01.SM_Env_Snow_Path_Corner_01
+[2021.07.30-09.19.10:202][730]LogStaticMesh: SM_Env_Snow_Path_4Way_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:204][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Path_4Way_01.SM_Env_Snow_Path_4Way_01
+[2021.07.30-09.19.10:210][730]LogStaticMesh: SM_Env_Snow_Lillypad_Large_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:213][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Lillypad_Large_03.SM_Env_Snow_Lillypad_Large_03
+[2021.07.30-09.19.10:217][730]LogStaticMesh: SM_Env_Snow_Lillypad_Large_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:219][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Lillypad_Large_02.SM_Env_Snow_Lillypad_Large_02
+[2021.07.30-09.19.10:221][730]LogStaticMesh: SM_Env_Snow_Lillypad_Large_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:222][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Lillypad_Large_01.SM_Env_Snow_Lillypad_Large_01
+[2021.07.30-09.19.10:236][730]LogStaticMesh: SM_Env_Snow_Hill_Cascade_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:250][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Hill_Cascade_03.SM_Env_Snow_Hill_Cascade_03
+[2021.07.30-09.19.10:260][730]LogStaticMesh: SM_Env_Snow_Hill_Cascade_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:264][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Hill_Cascade_02.SM_Env_Snow_Hill_Cascade_02
+[2021.07.30-09.19.10:272][730]LogStaticMesh: SM_Env_Snow_Hill_Cascade_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:276][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Hill_Cascade_01.SM_Env_Snow_Hill_Cascade_01
+[2021.07.30-09.19.10:281][730]LogStaticMesh: SM_Env_Snow_GroundMound_05 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:284][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_GroundMound_05.SM_Env_Snow_GroundMound_05
+[2021.07.30-09.19.10:290][730]LogStaticMesh: SM_Env_Snow_GroundMound_04 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:294][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_GroundMound_04.SM_Env_Snow_GroundMound_04
+[2021.07.30-09.19.10:300][730]LogStaticMesh: SM_Env_Snow_GroundMound_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:305][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_GroundMound_03.SM_Env_Snow_GroundMound_03
+[2021.07.30-09.19.10:311][730]LogStaticMesh: SM_Env_Snow_GroundMound_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:315][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_GroundMound_02.SM_Env_Snow_GroundMound_02
+[2021.07.30-09.19.10:319][730]LogStaticMesh: SM_Env_Snow_GroundMound_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:319][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_GroundMound_01.SM_Env_Snow_GroundMound_01
+[2021.07.30-09.19.10:327][730]LogStaticMesh: SM_Env_Snow_Flowers_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:332][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Flowers_02.SM_Env_Snow_Flowers_02
+[2021.07.30-09.19.10:336][730]LogStaticMesh: SM_Env_Snow_Flowers_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:338][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Flowers_01.SM_Env_Snow_Flowers_01
+[2021.07.30-09.19.10:341][730]LogStaticMesh: SM_Env_Snow_Fence_Post_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:343][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Fence_Post_01.SM_Env_Snow_Fence_Post_01
+[2021.07.30-09.19.10:347][730]LogStaticMesh: SM_Env_Snow_Fence_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:349][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Fence_01.SM_Env_Snow_Fence_01
+[2021.07.30-09.19.10:353][730]LogStaticMesh: SM_Env_Snow_DirtPath_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:354][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_DirtPath_03.SM_Env_Snow_DirtPath_03
+[2021.07.30-09.19.10:358][730]LogStaticMesh: SM_Env_Snow_DirtPath_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:359][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_DirtPath_02.SM_Env_Snow_DirtPath_02
+[2021.07.30-09.19.10:361][730]LogStaticMesh: SM_Env_Snow_DirtPath_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:362][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_DirtPath_01.SM_Env_Snow_DirtPath_01
+[2021.07.30-09.19.10:370][730]LogStaticMesh: SM_Env_Snow_CropRow_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:376][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_CropRow_03.SM_Env_Snow_CropRow_03
+[2021.07.30-09.19.10:383][730]LogStaticMesh: SM_Env_Snow_CropRow_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:387][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_CropRow_02.SM_Env_Snow_CropRow_02
+[2021.07.30-09.19.10:390][730]LogStaticMesh: SM_Env_Snow_CropRow_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:391][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_CropRow_01.SM_Env_Snow_CropRow_01
+[2021.07.30-09.19.10:407][730]LogStaticMesh: SM_Env_Snow_Cliff_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:424][730]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Cliff_02.SM_Env_Snow_Cliff_02
+[2021.07.30-09.19.10:443][730]LogStaticMesh: SM_Env_Snow_Cliff_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:459][730]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Cliff_01.SM_Env_Snow_Cliff_01
+[2021.07.30-09.19.10:466][730]LogStaticMesh: SM_Env_Snow_Bush_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:467][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Bush_03.SM_Env_Snow_Bush_03
+[2021.07.30-09.19.10:470][730]LogStaticMesh: SM_Env_Snow_Bush_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:472][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Bush_02.SM_Env_Snow_Bush_02
+[2021.07.30-09.19.10:477][730]LogStaticMesh: SM_Env_Snow_Bush_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:479][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Bush_01.SM_Env_Snow_Bush_01
+[2021.07.30-09.19.10:492][730]LogStaticMesh: SM_Env_Snow_Bridge_Curved_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:507][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Bridge_Curved_01.SM_Env_Snow_Bridge_Curved_01
+[2021.07.30-09.19.10:515][730]LogStaticMesh: SM_Env_Snow_Bridge_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:517][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Bridge_03.SM_Env_Snow_Bridge_03
+[2021.07.30-09.19.10:523][730]LogStaticMesh: SM_Env_Snow_Bridge_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:526][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Bridge_02.SM_Env_Snow_Bridge_02
+[2021.07.30-09.19.10:531][730]LogStaticMesh: SM_Env_Snow_Bridge_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:535][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Bridge_01.SM_Env_Snow_Bridge_01
+[2021.07.30-09.19.10:540][730]LogStaticMesh: SM_Env_Snow_Bamboo_Tree_05 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:542][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Bamboo_Tree_05.SM_Env_Snow_Bamboo_Tree_05
+[2021.07.30-09.19.10:547][730]LogStaticMesh: SM_Env_Snow_Bamboo_Tree_04 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:549][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Bamboo_Tree_04.SM_Env_Snow_Bamboo_Tree_04
+[2021.07.30-09.19.10:554][730]LogStaticMesh: SM_Env_Snow_Bamboo_Tree_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:557][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Bamboo_Tree_03.SM_Env_Snow_Bamboo_Tree_03
+[2021.07.30-09.19.10:561][730]LogStaticMesh: SM_Env_Snow_Bamboo_Tree_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:563][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Bamboo_Tree_02.SM_Env_Snow_Bamboo_Tree_02
+[2021.07.30-09.19.10:566][730]LogStaticMesh: SM_Env_Snow_Bamboo_Tree_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:568][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Bamboo_Tree_01.SM_Env_Snow_Bamboo_Tree_01
+[2021.07.30-09.19.10:598][730]LogStaticMesh: SM_Env_Snow_Bamboo_Group_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:649][730]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Bamboo_Group_03.SM_Env_Snow_Bamboo_Group_03
+[2021.07.30-09.19.10:678][730]LogStaticMesh: SM_Env_Snow_Bamboo_Group_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:710][730]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Bamboo_Group_02.SM_Env_Snow_Bamboo_Group_02
+[2021.07.30-09.19.10:736][730]LogStaticMesh: SM_Env_Snow_Bamboo_Group_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:763][730]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Bamboo_Group_01.SM_Env_Snow_Bamboo_Group_01
+[2021.07.30-09.19.10:776][730]LogStaticMesh: SM_Env_Snow_Archway_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:782][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Env_Snow_Archway_01.SM_Env_Snow_Archway_01
+[2021.07.30-09.19.10:790][730]LogStaticMesh: SM_Bld_Snow_Wall_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:793][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Wall_01.SM_Bld_Snow_Wall_01
+[2021.07.30-09.19.10:815][730]LogStaticMesh: SM_Bld_Snow_Tower_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:840][730]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Tower_02.SM_Bld_Snow_Tower_02
+[2021.07.30-09.19.10:866][730]LogStaticMesh: SM_Bld_Snow_Tower_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:891][730]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Tower_01.SM_Bld_Snow_Tower_01
+[2021.07.30-09.19.10:898][730]LogStaticMesh: SM_Bld_Snow_Temple_Window_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:898][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Temple_Window_01.SM_Bld_Snow_Temple_Window_01
+[2021.07.30-09.19.10:905][730]LogStaticMesh: SM_Bld_Snow_Temple_Roof_Tip_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:910][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Temple_Roof_Tip_01.SM_Bld_Snow_Temple_Roof_Tip_01
+[2021.07.30-09.19.10:920][730]LogStaticMesh: SM_Bld_Snow_Temple_Roof_Small_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:929][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Temple_Roof_Small_02.SM_Bld_Snow_Temple_Roof_Small_02
+[2021.07.30-09.19.10:938][730]LogStaticMesh: SM_Bld_Snow_Temple_Roof_Small_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:946][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Temple_Roof_Small_01.SM_Bld_Snow_Temple_Roof_Small_01
+[2021.07.30-09.19.10:958][730]LogStaticMesh: SM_Bld_Snow_Temple_Roof_Medium_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.10:970][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Temple_Roof_Medium_01.SM_Bld_Snow_Temple_Roof_Medium_01
+[2021.07.30-09.19.10:989][730]LogStaticMesh: SM_Bld_Snow_Temple_Roof_Large_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:010][730]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Temple_Roof_Large_01.SM_Bld_Snow_Temple_Roof_Large_01
+[2021.07.30-09.19.11:020][730]LogStaticMesh: SM_Bld_Snow_Temple_Roof_Addon_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:023][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Temple_Roof_Addon_01.SM_Bld_Snow_Temple_Roof_Addon_01
+[2021.07.30-09.19.11:034][730]LogStaticMesh: SM_Bld_Snow_Temple_Door_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:045][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Temple_Door_02.SM_Bld_Snow_Temple_Door_02
+[2021.07.30-09.19.11:055][730]LogStaticMesh: SM_Bld_Snow_Temple_Door_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:063][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Temple_Door_01.SM_Bld_Snow_Temple_Door_01
+[2021.07.30-09.19.11:069][730]LogStaticMesh: SM_Bld_Snow_Temple_Base_Small_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:071][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Temple_Base_Small_01.SM_Bld_Snow_Temple_Base_Small_01
+[2021.07.30-09.19.11:077][730]LogStaticMesh: SM_Bld_Snow_Temple_Base_Medium_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:080][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Temple_Base_Medium_01.SM_Bld_Snow_Temple_Base_Medium_01
+[2021.07.30-09.19.11:089][730]LogStaticMesh: SM_Bld_Snow_Temple_Base_Large_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:096][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Temple_Base_Large_01.SM_Bld_Snow_Temple_Base_Large_01
+[2021.07.30-09.19.11:101][730]LogStaticMesh: SM_Bld_Snow_Room_Long_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:104][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Room_Long_03.SM_Bld_Snow_Room_Long_03
+[2021.07.30-09.19.11:110][730]LogStaticMesh: SM_Bld_Snow_Room_Long_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:115][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Room_Long_02.SM_Bld_Snow_Room_Long_02
+[2021.07.30-09.19.11:124][730]LogStaticMesh: SM_Bld_Snow_Room_Long_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:131][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Room_Long_01.SM_Bld_Snow_Room_Long_01
+[2021.07.30-09.19.11:136][730]LogStaticMesh: SM_Bld_Snow_Platform_Stairs_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:138][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Platform_Stairs_01.SM_Bld_Snow_Platform_Stairs_01
+[2021.07.30-09.19.11:144][730]LogStaticMesh: SM_Bld_Snow_Platform_Small_Legs_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:147][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Platform_Small_Legs_01.SM_Bld_Snow_Platform_Small_Legs_01
+[2021.07.30-09.19.11:155][730]LogStaticMesh: SM_Bld_Snow_Platform_Small_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:162][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Platform_Small_02.SM_Bld_Snow_Platform_Small_02
+[2021.07.30-09.19.11:171][730]LogStaticMesh: SM_Bld_Snow_Platform_Small_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:178][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Platform_Small_01.SM_Bld_Snow_Platform_Small_01
+[2021.07.30-09.19.11:186][730]LogStaticMesh: SM_Bld_Snow_Platform_Medium_Legs_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:192][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Platform_Medium_Legs_01.SM_Bld_Snow_Platform_Medium_Legs_01
+[2021.07.30-09.19.11:202][730]LogStaticMesh: SM_Bld_Snow_Platform_Medium_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:210][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Platform_Medium_02.SM_Bld_Snow_Platform_Medium_02
+[2021.07.30-09.19.11:221][730]LogStaticMesh: SM_Bld_Snow_Platform_Medium_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:231][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Platform_Medium_01.SM_Bld_Snow_Platform_Medium_01
+[2021.07.30-09.19.11:241][730]LogStaticMesh: SM_Bld_Snow_Platform_Large_Legs_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:252][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Platform_Large_Legs_01.SM_Bld_Snow_Platform_Large_Legs_01
+[2021.07.30-09.19.11:264][730]LogStaticMesh: SM_Bld_Snow_Platform_Large_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:276][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Platform_Large_02.SM_Bld_Snow_Platform_Large_02
+[2021.07.30-09.19.11:288][730]LogStaticMesh: SM_Bld_Snow_Platform_Large_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:298][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Platform_Large_01.SM_Bld_Snow_Platform_Large_01
+[2021.07.30-09.19.11:302][730]LogStaticMesh: SM_Bld_Snow_House_Window_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:303][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_House_Window_01.SM_Bld_Snow_House_Window_01
+[2021.07.30-09.19.11:315][730]LogStaticMesh: SM_Bld_Snow_House_Roof_Wood_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:331][730]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_House_Roof_Wood_01.SM_Bld_Snow_House_Roof_Wood_01
+[2021.07.30-09.19.11:345][730]LogStaticMesh: SM_Bld_Snow_House_Roof_Thatch_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:356][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_House_Roof_Thatch_01.SM_Bld_Snow_House_Roof_Thatch_01
+[2021.07.30-09.19.11:376][730]LogStaticMesh: SM_Bld_Snow_House_Roof_Long_Wood_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:398][730]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_House_Roof_Long_Wood_01.SM_Bld_Snow_House_Roof_Long_Wood_01
+[2021.07.30-09.19.11:416][730]LogStaticMesh: SM_Bld_Snow_House_Roof_Long_Thatch_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:433][730]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_House_Roof_Long_Thatch_01.SM_Bld_Snow_House_Roof_Long_Thatch_01
+[2021.07.30-09.19.11:441][730]LogStaticMesh: SM_Bld_Snow_House_Door_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:445][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_House_Door_02.SM_Bld_Snow_House_Door_02
+[2021.07.30-09.19.11:449][730]LogStaticMesh: SM_Bld_Snow_House_Door_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:451][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_House_Door_01.SM_Bld_Snow_House_Door_01
+[2021.07.30-09.19.11:457][730]LogStaticMesh: SM_Bld_Snow_House_Base_Long_Extension_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:461][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_House_Base_Long_Extension_01.SM_Bld_Snow_House_Base_Long_Extension_01
+[2021.07.30-09.19.11:471][730]LogStaticMesh: SM_Bld_Snow_House_Base_Long_04 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:481][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_House_Base_Long_04.SM_Bld_Snow_House_Base_Long_04
+[2021.07.30-09.19.11:494][730]LogStaticMesh: SM_Bld_Snow_House_Base_Long_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:506][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_House_Base_Long_03.SM_Bld_Snow_House_Base_Long_03
+[2021.07.30-09.19.11:517][730]LogStaticMesh: SM_Bld_Snow_House_Base_Long_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:526][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_House_Base_Long_02.SM_Bld_Snow_House_Base_Long_02
+[2021.07.30-09.19.11:532][730]LogStaticMesh: SM_Bld_Snow_House_Base_Extension_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:536][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_House_Base_Extension_01.SM_Bld_Snow_House_Base_Extension_01
+[2021.07.30-09.19.11:546][730]LogStaticMesh: SM_Bld_Snow_House_Base_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:554][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_House_Base_02.SM_Bld_Snow_House_Base_02
+[2021.07.30-09.19.11:563][730]LogStaticMesh: SM_Bld_Snow_House_Base_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:570][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_House_Base_01.SM_Bld_Snow_House_Base_01
+[2021.07.30-09.19.11:579][730]LogStaticMesh: SM_Bld_Snow_House_Addon_04 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:584][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_House_Addon_04.SM_Bld_Snow_House_Addon_04
+[2021.07.30-09.19.11:593][730]LogStaticMesh: SM_Bld_Snow_House_Addon_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:601][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_House_Addon_03.SM_Bld_Snow_House_Addon_03
+[2021.07.30-09.19.11:610][730]LogStaticMesh: SM_Bld_Snow_House_Addon_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:617][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_House_Addon_02.SM_Bld_Snow_House_Addon_02
+[2021.07.30-09.19.11:625][730]LogStaticMesh: SM_Bld_Snow_House_Addon_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:631][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_House_Addon_01.SM_Bld_Snow_House_Addon_01
+[2021.07.30-09.19.11:633][730]LogStaticMesh: SM_Bld_Snow_Castle_Window_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:634][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Castle_Window_01.SM_Bld_Snow_Castle_Window_01
+[2021.07.30-09.19.11:639][730]LogStaticMesh: SM_Prop_StoneBrazier_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:641][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_StoneBrazier_02.SM_Prop_StoneBrazier_02
+[2021.07.30-09.19.11:647][730]LogStaticMesh: SM_Prop_Table_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:651][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Table_01.SM_Prop_Table_01
+[2021.07.30-09.19.11:654][730]LogStaticMesh: SM_Prop_Table_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:655][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Table_03.SM_Prop_Table_03
+[2021.07.30-09.19.11:691][730]LogStaticMesh: SM_Prop_Table_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:749][730]LogStaticMesh: Built static mesh [0.06s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Table_02.SM_Prop_Table_02
+[2021.07.30-09.19.11:762][730]LogStaticMesh: SM_Prop_StoneCircle_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:763][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_StoneCircle_01.SM_Prop_StoneCircle_01
+[2021.07.30-09.19.11:769][730]LogStaticMesh: SM_Prop_StoneBrazier_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:772][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_StoneBrazier_03.SM_Prop_StoneBrazier_03
+[2021.07.30-09.19.11:776][730]LogStaticMesh: SM_Env_DirtPath_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:777][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_DirtPath_03.SM_Env_DirtPath_03
+[2021.07.30-09.19.11:780][730]LogStaticMesh: SM_Env_Fence_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:782][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Fence_01.SM_Env_Fence_01
+[2021.07.30-09.19.11:786][730]LogStaticMesh: SM_Env_FarmTerrace_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:787][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_FarmTerrace_01.SM_Env_FarmTerrace_01
+[2021.07.30-09.19.11:791][730]LogStaticMesh: SM_Env_FarmTerrace_04 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:793][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_FarmTerrace_04.SM_Env_FarmTerrace_04
+[2021.07.30-09.19.11:797][730]LogStaticMesh: SM_Env_FarmTerrace_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:798][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_FarmTerrace_03.SM_Env_FarmTerrace_03
+[2021.07.30-09.19.11:802][730]LogStaticMesh: SM_Env_FarmTerrace_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:804][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_FarmTerrace_02.SM_Env_FarmTerrace_02
+[2021.07.30-09.19.11:808][730]LogStaticMesh: SM_Env_FarmTerrace_05 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:810][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_FarmTerrace_05.SM_Env_FarmTerrace_05
+[2021.07.30-09.19.11:813][730]LogStaticMesh: SM_Env_DirtPath_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:814][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_DirtPath_02.SM_Env_DirtPath_02
+[2021.07.30-09.19.11:816][730]LogStaticMesh: SM_Env_Rock_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:817][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Rock_03.SM_Env_Rock_03
+[2021.07.30-09.19.11:818][730]LogStaticMesh: SM_Env_SteppingStone_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:818][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_SteppingStone_01.SM_Env_SteppingStone_01
+[2021.07.30-09.19.11:821][730]LogStaticMesh: SM_Env_Rock_Large_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:823][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Rock_Large_03.SM_Env_Rock_Large_03
+[2021.07.30-09.19.11:829][730]LogStaticMesh: SM_Env_Rock_Large_04 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:831][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Rock_Large_04.SM_Env_Rock_Large_04
+[2021.07.30-09.19.11:838][730]LogStaticMesh: SM_Env_Rock_Large_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:841][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Rock_Large_02.SM_Env_Rock_Large_02
+[2021.07.30-09.19.11:849][730]LogStaticMesh: SM_Env_Rock_Large_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:855][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Rock_Large_01.SM_Env_Rock_Large_01
+[2021.07.30-09.19.11:858][730]LogStaticMesh: SM_Prop_Bucket_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:860][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Bucket_01.SM_Prop_Bucket_01
+[2021.07.30-09.19.11:867][730]LogStaticMesh: SM_Prop_Bowl_Large_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:872][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Bowl_Large_01.SM_Prop_Bowl_Large_01
+[2021.07.30-09.19.11:876][730]LogStaticMesh: SM_Prop_Bell_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:877][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Bell_01.SM_Prop_Bell_01
+[2021.07.30-09.19.11:880][730]LogStaticMesh: SM_Prop_Bowl_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:881][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Bowl_01.SM_Prop_Bowl_01
+[2021.07.30-09.19.11:887][730]LogStaticMesh: SM_Prop_Bonsai_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:891][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Bonsai_01.SM_Prop_Bonsai_01
+[2021.07.30-09.19.11:895][730]LogStaticMesh: SM_Prop_Bamboo_Pole_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:897][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Bamboo_Pole_01.SM_Prop_Bamboo_Pole_01
+[2021.07.30-09.19.11:901][730]LogStaticMesh: SM_Prop_Bamboo_Pole_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:903][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Bamboo_Pole_02.SM_Prop_Bamboo_Pole_02
+[2021.07.30-09.19.11:905][730]LogStaticMesh: SM_Env_WoodEdge_Straight_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:906][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_WoodEdge_Straight_01.SM_Env_WoodEdge_Straight_01
+[2021.07.30-09.19.11:909][730]LogStaticMesh: SM_Env_Tulips_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:912][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Tulips_02.SM_Env_Tulips_02
+[2021.07.30-09.19.11:913][730]LogStaticMesh: SM_Env_WoodEdge_Corner_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:914][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_WoodEdge_Corner_01.SM_Env_WoodEdge_Corner_01
+[2021.07.30-09.19.11:918][730]LogStaticMesh: SM_Env_Zen_Rock_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:920][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Zen_Rock_01.SM_Env_Zen_Rock_01
+[2021.07.30-09.19.11:926][730]LogStaticMesh: SM_Env_Zen_Rock_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:928][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Zen_Rock_02.SM_Env_Zen_Rock_02
+[2021.07.30-09.19.11:934][730]LogStaticMesh: SM_Prop_Basket_Rice_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:938][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Basket_Rice_01.SM_Prop_Basket_Rice_01
+[2021.07.30-09.19.11:941][730]LogStaticMesh: SM_Env_Tile_Zen_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:942][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Tile_Zen_02.SM_Env_Tile_Zen_02
+[2021.07.30-09.19.11:944][730]LogStaticMesh: SM_Env_SteppingStone_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:944][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_SteppingStone_02.SM_Env_SteppingStone_02
+[2021.07.30-09.19.11:945][730]LogStaticMesh: SM_Env_SteppingStone_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:946][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_SteppingStone_03.SM_Env_SteppingStone_03
+[2021.07.30-09.19.11:948][730]LogStaticMesh: SM_Env_Tile_Zen_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:949][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Tile_Zen_01.SM_Env_Tile_Zen_01
+[2021.07.30-09.19.11:951][730]LogStaticMesh: SM_Env_SteppingStone_04 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:952][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_SteppingStone_04.SM_Env_SteppingStone_04
+[2021.07.30-09.19.11:953][730]LogStaticMesh: SM_Env_Tile_Dirt_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:953][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Tile_Dirt_01.SM_Env_Tile_Dirt_01
+[2021.07.30-09.19.11:954][730]LogStaticMesh: SM_Env_Tile_Grass_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:954][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Tile_Grass_01.SM_Env_Tile_Grass_01
+[2021.07.30-09.19.11:954][730]LogStaticMesh: SM_Env_Tile_Sand_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:955][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Tile_Sand_01.SM_Env_Tile_Sand_01
+[2021.07.30-09.19.11:959][730]LogStaticMesh: SM_Bld_Block_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:963][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Block_01.SM_Bld_Block_01
+[2021.07.30-09.19.11:975][730]LogStaticMesh: SM_Bld_Base_Large_DoorWay_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:987][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Base_Large_DoorWay_01.SM_Bld_Base_Large_DoorWay_01
+[2021.07.30-09.19.11:992][730]LogStaticMesh: SM_Bld_Base_Large_Door_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.11:994][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Base_Large_Door_01.SM_Bld_Base_Large_Door_01
+[2021.07.30-09.19.11:999][730]LogStaticMesh: SM_Bld_Base_Small_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:002][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Base_Small_02.SM_Bld_Base_Small_02
+[2021.07.30-09.19.12:009][730]LogStaticMesh: SM_Bld_Base_Small_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:014][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Base_Small_01.SM_Bld_Base_Small_01
+[2021.07.30-09.19.12:017][730]LogStaticMesh: SM_Bld_Block_CornerPillar_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:018][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Block_CornerPillar_01.SM_Bld_Block_CornerPillar_01
+[2021.07.30-09.19.12:021][730]LogStaticMesh: SM_Bld_Block_Stairs_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:022][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Block_Stairs_01.SM_Bld_Block_Stairs_01
+[2021.07.30-09.19.12:027][730]LogStaticMesh: SM_Env_Path_End_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:029][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Path_End_01.SM_Env_Path_End_01
+[2021.07.30-09.19.12:032][730]LogStaticMesh: SM_Env_Path_Straight_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:034][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Path_Straight_02.SM_Env_Path_Straight_02
+[2021.07.30-09.19.12:037][730]LogStaticMesh: SM_Env_Path_4Way_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:039][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Path_4Way_01.SM_Env_Path_4Way_01
+[2021.07.30-09.19.12:042][730]LogStaticMesh: SM_Env_Path_Straight_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:044][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Path_Straight_01.SM_Env_Path_Straight_01
+[2021.07.30-09.19.12:048][730]LogStaticMesh: SM_Env_Path_TSection_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:050][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Path_TSection_01.SM_Env_Path_TSection_01
+[2021.07.30-09.19.12:055][730]LogStaticMesh: SM_Env_Plant_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:056][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Plant_01.SM_Env_Plant_01
+[2021.07.30-09.19.12:068][730]LogStaticMesh: SM_Env_PaddyHills_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:079][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_PaddyHills_01.SM_Env_PaddyHills_01
+[2021.07.30-09.19.12:085][730]LogStaticMesh: SM_Env_Path_Corner_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:087][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Path_Corner_01.SM_Env_Path_Corner_01
+[2021.07.30-09.19.12:094][730]LogStaticMesh: SM_Bld_Base_Large_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:100][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Base_Large_03.SM_Bld_Base_Large_03
+[2021.07.30-09.19.12:111][730]LogStaticMesh: SM_Bld_Base_Large_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:124][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Base_Large_02.SM_Bld_Base_Large_02
+[2021.07.30-09.19.12:132][730]LogStaticMesh: SM_Env_Tree_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:135][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Tree_01.SM_Env_Tree_01
+[2021.07.30-09.19.12:144][730]LogStaticMesh: SM_Env_Tree_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:150][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Tree_03.SM_Env_Tree_03
+[2021.07.30-09.19.12:157][730]LogStaticMesh: SM_Env_Tree_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:160][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Tree_02.SM_Env_Tree_02
+[2021.07.30-09.19.12:162][730]LogStaticMesh: SM_Env_Tulips_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:163][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Tulips_01.SM_Env_Tulips_01
+[2021.07.30-09.19.12:180][730]LogStaticMesh: SM_Env_Tree_04 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:197][730]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Tree_04.SM_Env_Tree_04
+[2021.07.30-09.19.12:208][730]LogStaticMesh: SM_Bld_House_Addon_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:214][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_House_Addon_02.SM_Bld_House_Addon_02
+[2021.07.30-09.19.12:216][730]LogStaticMesh: SM_Bld_Castle_Window_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:217][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Castle_Window_01.SM_Bld_Castle_Window_01
+[2021.07.30-09.19.12:225][730]LogStaticMesh: SM_Bld_House_Addon_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:230][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_House_Addon_03.SM_Bld_House_Addon_03
+[2021.07.30-09.19.12:237][730]LogStaticMesh: SM_Bld_House_Addon_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:241][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_House_Addon_01.SM_Bld_House_Addon_01
+[2021.07.30-09.19.12:248][730]LogStaticMesh: SM_Bld_Room_Long_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:253][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Room_Long_02.SM_Bld_Room_Long_02
+[2021.07.30-09.19.12:261][730]LogStaticMesh: SM_Bld_Room_Long_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:266][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Room_Long_01.SM_Bld_Room_Long_01
+[2021.07.30-09.19.12:274][730]LogStaticMesh: SM_Bld_Temple_Base_Large_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:279][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Temple_Base_Large_01.SM_Bld_Temple_Base_Large_01
+[2021.07.30-09.19.12:283][730]LogStaticMesh: SM_Bld_Room_Long_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:286][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Room_Long_03.SM_Bld_Room_Long_03
+[2021.07.30-09.19.12:290][730]LogStaticMesh: SM_Bld_Wall_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:293][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Wall_01.SM_Bld_Wall_01
+[2021.07.30-09.19.12:299][730]LogStaticMesh: SM_Env_Archway_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:303][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Archway_01.SM_Env_Archway_01
+[2021.07.30-09.19.12:325][730]LogStaticMesh: SM_Env_Bamboo_Group_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:352][730]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Bamboo_Group_01.SM_Env_Bamboo_Group_01
+[2021.07.30-09.19.12:380][730]LogStaticMesh: SM_Env_Bamboo_Group_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:411][730]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Bamboo_Group_02.SM_Env_Bamboo_Group_02
+[2021.07.30-09.19.12:429][730]LogStaticMesh: SM_Bld_Tower_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:446][730]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Tower_02.SM_Bld_Tower_02
+[2021.07.30-09.19.12:454][730]LogStaticMesh: SM_Bld_Snow_Block_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:458][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Block_01.SM_Bld_Snow_Block_01
+[2021.07.30-09.19.12:469][730]LogStaticMesh: SM_Bld_Snow_Base_Large_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:480][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Base_Large_03.SM_Bld_Snow_Base_Large_03
+[2021.07.30-09.19.12:487][730]LogStaticMesh: SM_Bld_Snow_Base_Small_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:492][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Base_Small_02.SM_Bld_Snow_Base_Small_02
+[2021.07.30-09.19.12:496][730]LogStaticMesh: SM_Bld_Snow_Base_Large_Door_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:499][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Base_Large_Door_01.SM_Bld_Snow_Base_Large_Door_01
+[2021.07.30-09.19.12:508][730]LogStaticMesh: SM_Bld_Snow_Base_Small_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:517][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Base_Small_01.SM_Bld_Snow_Base_Small_01
+[2021.07.30-09.19.12:534][730]LogStaticMesh: SM_Bld_Snow_Base_Large_DoorWay_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:554][730]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Base_Large_DoorWay_01.SM_Bld_Snow_Base_Large_DoorWay_01
+[2021.07.30-09.19.12:578][730]LogStaticMesh: SM_Bld_Snow_Base_Large_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:603][730]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Base_Large_02.SM_Bld_Snow_Base_Large_02
+[2021.07.30-09.19.12:610][730]LogStaticMesh: SM_Bld_Snow_Block_CornerPillar_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:611][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Block_CornerPillar_01.SM_Bld_Snow_Block_CornerPillar_01
+[2021.07.30-09.19.12:617][730]LogStaticMesh: SM_Prop_Gong_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:621][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Gong_02.SM_Prop_Gong_02
+[2021.07.30-09.19.12:627][730]LogStaticMesh: SM_Prop_Gong_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:630][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Gong_01.SM_Prop_Gong_01
+[2021.07.30-09.19.12:633][730]LogStaticMesh: SM_Prop_Flute_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:634][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Flute_01.SM_Prop_Flute_01
+[2021.07.30-09.19.12:637][730]LogStaticMesh: SM_Prop_Flag_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:638][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Flag_01.SM_Prop_Flag_01
+[2021.07.30-09.19.12:644][730]LogStaticMesh: SM_Prop_Flag_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:648][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Flag_03.SM_Prop_Flag_03
+[2021.07.30-09.19.12:653][730]LogStaticMesh: SM_Prop_Flag_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:656][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Flag_02.SM_Prop_Flag_02
+[2021.07.30-09.19.12:662][730]LogStaticMesh: SM_Prop_Flag_04 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:666][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Flag_04.SM_Prop_Flag_04
+[2021.07.30-09.19.12:669][730]LogStaticMesh: SM_Prop_Bucket_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:671][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Bucket_02.SM_Prop_Bucket_02
+[2021.07.30-09.19.12:674][730]LogStaticMesh: SM_Prop_Fan_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:675][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Fan_02.SM_Prop_Fan_02
+[2021.07.30-09.19.12:682][730]LogStaticMesh: SM_Prop_Bucket_Pole_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:688][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Bucket_Pole_01.SM_Prop_Bucket_Pole_01
+[2021.07.30-09.19.12:691][730]LogStaticMesh: SM_Prop_Fan_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:691][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Fan_01.SM_Prop_Fan_01
+[2021.07.30-09.19.12:698][730]LogStaticMesh: SM_Env_GroundMound_04 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:702][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_GroundMound_04.SM_Env_GroundMound_04
+[2021.07.30-09.19.12:709][730]LogStaticMesh: SM_Env_GroundMound_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:713][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_GroundMound_02.SM_Env_GroundMound_02
+[2021.07.30-09.19.12:716][730]LogStaticMesh: SM_Env_GroundMound_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:717][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_GroundMound_01.SM_Env_GroundMound_01
+[2021.07.30-09.19.12:723][730]LogStaticMesh: SM_Env_GroundMound_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:727][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_GroundMound_03.SM_Env_GroundMound_03
+[2021.07.30-09.19.12:731][730]LogStaticMesh: SM_Env_Flowers_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:732][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Flowers_01.SM_Env_Flowers_01
+[2021.07.30-09.19.12:739][730]LogStaticMesh: SM_Env_Flowers_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:744][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Flowers_02.SM_Env_Flowers_02
+[2021.07.30-09.19.12:751][730]LogStaticMesh: SM_Env_Fuji_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:754][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Fuji_01.SM_Env_Fuji_01
+[2021.07.30-09.19.12:757][730]LogStaticMesh: SM_Env_Fence_Post_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:758][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Fence_Post_01.SM_Env_Fence_Post_01
+[2021.07.30-09.19.12:760][730]LogMaterial: Display: Missing cached shader map for material Mat_PolygonSamurai_03, compiling. 
+[2021.07.30-09.19.12:798][730]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.07.30-09.19.12:799][730]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.07.30-09.19.12:799][730]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.07.30-09.19.12:799][730]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.07.30-09.19.12:799][730]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.07.30-09.19.12:799][730]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.07.30-09.19.12:799][730]LogStaticMesh: SM_Bld_Base_Large_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:818][730]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Base_Large_01.SM_Bld_Base_Large_01
+[2021.07.30-09.19.12:824][730]LogMaterial: Display: Missing cached shader map for material Mat_PolygonSamurai_01, compiling. 
+[2021.07.30-09.19.12:837][730]LogMaterial: Display: Missing cached shader map for material Mat_OverView, compiling. 
+[2021.07.30-09.19.12:861][730]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 36
+[2021.07.30-09.19.12:861][730]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 31
+[2021.07.30-09.19.12:861][730]LogStaticMesh: SM_Prop_Vegetables_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:886][730]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Vegetables_01.SM_Prop_Vegetables_01
+[2021.07.30-09.19.12:898][730]LogStaticMesh: SM_Prop_Vegetables_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:903][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Vegetables_03.SM_Prop_Vegetables_03
+[2021.07.30-09.19.12:909][730]LogStaticMesh: SM_Prop_Vegetables_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:913][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Vegetables_02.SM_Prop_Vegetables_02
+[2021.07.30-09.19.12:920][730]LogStaticMesh: SM_Prop_Training_Pole_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:926][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Training_Pole_01.SM_Prop_Training_Pole_01
+[2021.07.30-09.19.12:932][730]LogStaticMesh: SM_Prop_Tent_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:935][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Tent_01.SM_Prop_Tent_01
+[2021.07.30-09.19.12:940][730]LogStaticMesh: SM_Env_Lillypad_Large_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:942][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Lillypad_Large_02.SM_Env_Lillypad_Large_02
+[2021.07.30-09.19.12:945][730]LogStaticMesh: SM_Env_Lillypad_Large_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:946][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Lillypad_Large_01.SM_Env_Lillypad_Large_01
+[2021.07.30-09.19.12:951][730]LogStaticMesh: SM_Env_Lillypad_Large_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:956][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Lillypad_Large_03.SM_Env_Lillypad_Large_03
+[2021.07.30-09.19.12:973][730]LogStaticMesh: SM_Env_Hill_Cascade_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.12:993][730]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Hill_Cascade_03.SM_Env_Hill_Cascade_03
+[2021.07.30-09.19.13:004][730]LogStaticMesh: SM_Env_Lillypad_Small_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:007][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Lillypad_Small_01.SM_Env_Lillypad_Small_01
+[2021.07.30-09.19.13:015][730]LogStaticMesh: SM_Bld_Castle_Base_Top_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:023][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Castle_Base_Top_01.SM_Bld_Castle_Base_Top_01
+[2021.07.30-09.19.13:029][730]LogStaticMesh: SM_Bld_Castle_Base_Small_Windows_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:032][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Castle_Base_Small_Windows_01.SM_Bld_Castle_Base_Small_Windows_01
+[2021.07.30-09.19.13:039][730]LogStaticMesh: SM_Bld_Castle_Gates_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:044][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Castle_Gates_01.SM_Bld_Castle_Gates_01
+[2021.07.30-09.19.13:053][730]LogStaticMesh: SM_Bld_Castle_Roof_Addon_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:060][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Castle_Roof_Addon_01.SM_Bld_Castle_Roof_Addon_01
+[2021.07.30-09.19.13:064][730]LogStaticMesh: SM_Env_DirtPath_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:065][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_DirtPath_01.SM_Env_DirtPath_01
+[2021.07.30-09.19.13:074][730]LogStaticMesh: SM_Env_CropRow_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:082][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_CropRow_03.SM_Env_CropRow_03
+[2021.07.30-09.19.13:090][730]LogStaticMesh: SM_Env_CropRow_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:095][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_CropRow_02.SM_Env_CropRow_02
+[2021.07.30-09.19.13:136][730]LogStaticMesh: SM_Env_Bamboo_Group_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:213][730]LogStaticMesh: Built static mesh [0.08s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Bamboo_Group_03.SM_Env_Bamboo_Group_03
+[2021.07.30-09.19.13:228][730]LogStaticMesh: SM_Env_Bamboo_Tree_05 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:231][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Bamboo_Tree_05.SM_Env_Bamboo_Tree_05
+[2021.07.30-09.19.13:235][730]LogStaticMesh: SM_Env_Bamboo_Tree_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:238][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Bamboo_Tree_03.SM_Env_Bamboo_Tree_03
+[2021.07.30-09.19.13:244][730]LogStaticMesh: SM_Env_Bamboo_Tree_04 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:247][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Bamboo_Tree_04.SM_Env_Bamboo_Tree_04
+[2021.07.30-09.19.13:251][730]LogStaticMesh: SM_Env_Bamboo_Tree_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:254][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Bamboo_Tree_01.SM_Env_Bamboo_Tree_01
+[2021.07.30-09.19.13:258][730]LogStaticMesh: SM_Env_Bamboo_Tree_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:261][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Bamboo_Tree_02.SM_Env_Bamboo_Tree_02
+[2021.07.30-09.19.13:268][730]LogStaticMesh: SM_Prop_Fence_Bamboo_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:274][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Fence_Bamboo_01.SM_Prop_Fence_Bamboo_01
+[2021.07.30-09.19.13:278][730]LogStaticMesh: SM_Prop_Fence_Simple_Post_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:278][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Fence_Simple_Post_01.SM_Prop_Fence_Simple_Post_01
+[2021.07.30-09.19.13:280][730]LogStaticMesh: SM_Prop_Fan_04 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:280][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Fan_04.SM_Prop_Fan_04
+[2021.07.30-09.19.13:283][730]LogStaticMesh: SM_Prop_Fence_Simple_Straight_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:284][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Fence_Simple_Straight_01.SM_Prop_Fence_Simple_Straight_01
+[2021.07.30-09.19.13:286][730]LogStaticMesh: SM_Prop_Fan_05 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:287][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Fan_05.SM_Prop_Fan_05
+[2021.07.30-09.19.13:289][730]LogStaticMesh: SM_Prop_Fan_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:289][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Fan_03.SM_Prop_Fan_03
+[2021.07.30-09.19.13:293][730]LogStaticMesh: SM_Prop_Fence_Simple_Straight_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:294][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Fence_Simple_Straight_02.SM_Prop_Fence_Simple_Straight_02
+[2021.07.30-09.19.13:301][730]LogStaticMesh: SM_Prop_Fence_Bamboo_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:307][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Fence_Bamboo_02.SM_Prop_Fence_Bamboo_02
+[2021.07.30-09.19.13:318][730]LogStaticMesh: SM_Bld_House_Roof_Thatch_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:328][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_House_Roof_Thatch_01.SM_Bld_House_Roof_Thatch_01
+[2021.07.30-09.19.13:343][730]LogStaticMesh: SM_Bld_Platform_Large_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:359][730]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Platform_Large_02.SM_Bld_Platform_Large_02
+[2021.07.30-09.19.13:372][730]LogStaticMesh: SM_Bld_Platform_Large_Legs_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:382][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Platform_Large_Legs_01.SM_Bld_Platform_Large_Legs_01
+[2021.07.30-09.19.13:398][730]LogStaticMesh: SM_Bld_House_Roof_Wood_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:416][730]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_House_Roof_Wood_01.SM_Bld_House_Roof_Wood_01
+[2021.07.30-09.19.13:431][730]LogStaticMesh: SM_Bld_Platform_Large_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:445][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Platform_Large_01.SM_Bld_Platform_Large_01
+[2021.07.30-09.19.13:450][730]LogStaticMesh: SM_Bld_House_Window_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:450][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_House_Window_01.SM_Bld_House_Window_01
+[2021.07.30-09.19.13:452][730]LogStaticMesh: SM_Bld_Snow_Castle_Base_Small_Blank_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:453][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Castle_Base_Small_Blank_01.SM_Bld_Snow_Castle_Base_Small_Blank_01
+[2021.07.30-09.19.13:458][730]LogStaticMesh: SM_Bld_Snow_Castle_Base_Small_Windows_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:462][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Castle_Base_Small_Windows_01.SM_Bld_Snow_Castle_Base_Small_Windows_01
+[2021.07.30-09.19.13:465][730]LogStaticMesh: SM_Bld_Snow_Castle_Base_Medium_Blank_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:466][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Castle_Base_Medium_Blank_01.SM_Bld_Snow_Castle_Base_Medium_Blank_01
+[2021.07.30-09.19.13:477][730]LogStaticMesh: SM_Bld_Snow_Castle_Base_Large_Windows_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:488][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Castle_Base_Large_Windows_01.SM_Bld_Snow_Castle_Base_Large_Windows_01
+[2021.07.30-09.19.13:497][730]LogStaticMesh: SM_Bld_Snow_Castle_Base_Medium_Windows_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:501][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Castle_Base_Medium_Windows_01.SM_Bld_Snow_Castle_Base_Medium_Windows_01
+[2021.07.30-09.19.13:504][730]LogStaticMesh: SM_Bld_Snow_Castle_Base_Large_Blank_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:505][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Castle_Base_Large_Blank_01.SM_Bld_Snow_Castle_Base_Large_Blank_01
+[2021.07.30-09.19.13:511][730]LogStaticMesh: SM_Bld_Snow_Block_Stairs_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:514][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Block_Stairs_01.SM_Bld_Snow_Block_Stairs_01
+[2021.07.30-09.19.13:567][730]LogStaticMesh: SM_Bld_Snow_BridgeCover_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:660][730]LogStaticMesh: Built static mesh [0.09s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_BridgeCover_01.SM_Bld_Snow_BridgeCover_01
+[2021.07.30-09.19.13:678][730]LogStaticMesh: SM_Bld_House_Door_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:682][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_House_Door_02.SM_Bld_House_Door_02
+[2021.07.30-09.19.13:699][730]LogStaticMesh: SM_Bld_House_Roof_Long_Wood_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:725][730]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_House_Roof_Long_Wood_01.SM_Bld_House_Roof_Long_Wood_01
+[2021.07.30-09.19.13:741][730]LogStaticMesh: SM_Bld_House_Roof_Long_Thatch_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:756][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_House_Roof_Long_Thatch_01.SM_Bld_House_Roof_Long_Thatch_01
+[2021.07.30-09.19.13:769][730]LogStaticMesh: SM_Bld_Temple_Roof_Small_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:779][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Temple_Roof_Small_02.SM_Bld_Temple_Roof_Small_02
+[2021.07.30-09.19.13:799][730]LogStaticMesh: SM_Bld_Tower_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:828][730]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Tower_01.SM_Bld_Tower_01
+[2021.07.30-09.19.13:834][730]LogStaticMesh: SM_Bld_Temple_Window_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:835][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Temple_Window_01.SM_Bld_Temple_Window_01
+[2021.07.30-09.19.13:840][730]LogStaticMesh: SM_Bld_Temple_Roof_Tip_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:845][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Temple_Roof_Tip_01.SM_Bld_Temple_Roof_Tip_01
+[2021.07.30-09.19.13:850][730]LogStaticMesh: SM_Prop_Zen_Lantern_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:854][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Zen_Lantern_01.SM_Prop_Zen_Lantern_01
+[2021.07.30-09.19.13:857][730]LogStaticMesh: SM_Prop_Vegetables_06 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:858][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Vegetables_06.SM_Prop_Vegetables_06
+[2021.07.30-09.19.13:864][730]LogStaticMesh: SM_Prop_Vegetables_04 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:869][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Vegetables_04.SM_Prop_Vegetables_04
+[2021.07.30-09.19.13:904][730]LogStaticMesh: SM_Bld_Snow_Base_Large_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:962][730]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 26
+[2021.07.30-09.19.13:962][730]LogStaticMesh: Built static mesh [0.06s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Base_Large_01.SM_Bld_Snow_Base_Large_01
+[2021.07.30-09.19.13:977][730]LogStaticMesh: SM_Prop_Vegetables_07 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:980][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Vegetables_07.SM_Prop_Vegetables_07
+[2021.07.30-09.19.13:989][730]LogStaticMesh: SM_Prop_Zen_Bamboo_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.13:997][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Zen_Bamboo_01.SM_Prop_Zen_Bamboo_01
+[2021.07.30-09.19.14:001][730]LogStaticMesh: SM_Prop_Vegetables_08 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:001][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Vegetables_08.SM_Prop_Vegetables_08
+[2021.07.30-09.19.14:009][730]LogStaticMesh: SM_Prop_Vegetables_05 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:015][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Vegetables_05.SM_Prop_Vegetables_05
+[2021.07.30-09.19.14:027][730]LogStaticMesh: SM_Bld_Snow_Castle_Roof_Top_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:039][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Castle_Roof_Top_01.SM_Bld_Snow_Castle_Roof_Top_01
+[2021.07.30-09.19.14:048][730]LogStaticMesh: SM_Bld_Snow_Castle_Roof_Addon_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:052][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Castle_Roof_Addon_02.SM_Bld_Snow_Castle_Roof_Addon_02
+[2021.07.30-09.19.14:064][730]LogStaticMesh: SM_Bld_Snow_Castle_Roof_Large_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:075][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Castle_Roof_Large_01.SM_Bld_Snow_Castle_Roof_Large_01
+[2021.07.30-09.19.14:088][730]LogStaticMesh: SM_Bld_Snow_Castle_Roof_Medium_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:100][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Castle_Roof_Medium_01.SM_Bld_Snow_Castle_Roof_Medium_01
+[2021.07.30-09.19.14:111][730]LogStaticMesh: SM_Bld_Snow_Castle_Roof_Addon_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:121][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Castle_Roof_Addon_01.SM_Bld_Snow_Castle_Roof_Addon_01
+[2021.07.30-09.19.14:136][730]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 22
+[2021.07.30-09.19.14:136][730]LogStaticMesh: SM_Bld_Snow_Castle_Roof_Small_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:147][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Castle_Roof_Small_01.SM_Bld_Snow_Castle_Roof_Small_01
+[2021.07.30-09.19.14:161][730]LogStaticMesh: SM_Bld_Snow_Castle_Base_Top_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:174][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Castle_Base_Top_01.SM_Bld_Snow_Castle_Base_Top_01
+[2021.07.30-09.19.14:186][730]LogStaticMesh: SM_Bld_Snow_Castle_Gates_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:194][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Snow/SM_Bld_Snow_Castle_Gates_01.SM_Bld_Snow_Castle_Gates_01
+[2021.07.30-09.19.14:200][730]LogStaticMesh: SM_Prop_Rake_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:202][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Rake_01.SM_Prop_Rake_01
+[2021.07.30-09.19.14:222][730]LogStaticMesh: SM_Prop_Statue_Lion_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:242][730]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Statue_Lion_01.SM_Prop_Statue_Lion_01
+[2021.07.30-09.19.14:251][730]LogStaticMesh: SM_Prop_Pot_06 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:253][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Pot_06.SM_Prop_Pot_06
+[2021.07.30-09.19.14:257][730]LogStaticMesh: SM_Prop_Shamisen_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:260][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Shamisen_01.SM_Prop_Shamisen_01
+[2021.07.30-09.19.14:262][730]LogStaticMesh: SM_Prop_Rope_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:263][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Rope_01.SM_Prop_Rope_01
+[2021.07.30-09.19.14:266][730]LogStaticMesh: SM_Prop_Pot_07 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:267][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Pot_07.SM_Prop_Pot_07
+[2021.07.30-09.19.14:269][730]LogStaticMesh: SM_Bld_Castle_Base_Small_Blank_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:269][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Castle_Base_Small_Blank_01.SM_Bld_Castle_Base_Small_Blank_01
+[2021.07.30-09.19.14:271][730]LogStaticMesh: SM_Bld_Castle_Base_Medium_Blank_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:271][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Castle_Base_Medium_Blank_01.SM_Bld_Castle_Base_Medium_Blank_01
+[2021.07.30-09.19.14:276][730]LogStaticMesh: SM_Bld_Castle_Base_Medium_Windows_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:279][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Castle_Base_Medium_Windows_01.SM_Bld_Castle_Base_Medium_Windows_01
+[2021.07.30-09.19.14:288][730]LogStaticMesh: SM_Bld_House_Addon_04 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:296][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_House_Addon_04.SM_Bld_House_Addon_04
+[2021.07.30-09.19.14:308][730]LogStaticMesh: SM_Bld_House_Base_Long_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:319][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_House_Base_Long_02.SM_Bld_House_Base_Long_02
+[2021.07.30-09.19.14:330][730]LogStaticMesh: SM_Bld_House_Base_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:338][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_House_Base_01.SM_Bld_House_Base_01
+[2021.07.30-09.19.14:346][730]LogStaticMesh: SM_Bld_House_Base_Extension_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:351][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_House_Base_Extension_01.SM_Bld_House_Base_Extension_01
+[2021.07.30-09.19.14:368][730]LogStaticMesh: SM_Bld_House_Base_Long_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:387][730]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2021.07.30-09.19.14:388][730]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_House_Base_Long_01.SM_Bld_House_Base_Long_01
+[2021.07.30-09.19.14:405][730]LogStaticMesh: SM_Bld_House_Base_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:416][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_House_Base_02.SM_Bld_House_Base_02
+[2021.07.30-09.19.14:462][730]LogStaticMesh: SM_Bld_BridgeCover_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:514][730]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2021.07.30-09.19.14:514][730]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2021.07.30-09.19.14:528][730]LogStaticMesh: Built static mesh [0.07s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_BridgeCover_01.SM_Bld_BridgeCover_01
+[2021.07.30-09.19.14:540][730]LogStaticMesh: SM_Bld_Castle_Base_Large_Blank_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:540][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Castle_Base_Large_Blank_01.SM_Bld_Castle_Base_Large_Blank_01
+[2021.07.30-09.19.14:549][730]LogStaticMesh: SM_Bld_Castle_Base_Large_Windows_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:557][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Castle_Base_Large_Windows_01.SM_Bld_Castle_Base_Large_Windows_01
+[2021.07.30-09.19.14:564][730]LogStaticMesh: SM_Bld_Castle_Roof_Addon_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:567][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Castle_Roof_Addon_02.SM_Bld_Castle_Roof_Addon_02
+[2021.07.30-09.19.14:578][730]LogStaticMesh: SM_Bld_Castle_Roof_Large_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:588][730]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2021.07.30-09.19.14:588][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Castle_Roof_Large_01.SM_Bld_Castle_Roof_Large_01
+[2021.07.30-09.19.14:601][730]LogStaticMesh: SM_Bld_Castle_Roof_Medium_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:611][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Castle_Roof_Medium_01.SM_Bld_Castle_Roof_Medium_01
+[2021.07.30-09.19.14:624][730]LogStaticMesh: SM_Bld_Castle_Roof_Small_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:635][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Castle_Roof_Small_01.SM_Bld_Castle_Roof_Small_01
+[2021.07.30-09.19.14:647][730]LogStaticMesh: SM_Bld_Castle_Roof_Top_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:657][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Castle_Roof_Top_01.SM_Bld_Castle_Roof_Top_01
+[2021.07.30-09.19.14:673][730]LogStaticMesh: SM_Bld_House_Base_Long_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:688][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_House_Base_Long_03.SM_Bld_House_Base_Long_03
+[2021.07.30-09.19.14:702][730]LogStaticMesh: SM_Bld_House_Base_Long_04 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:716][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_House_Base_Long_04.SM_Bld_House_Base_Long_04
+[2021.07.30-09.19.14:725][730]LogStaticMesh: SM_Bld_House_Base_Long_Extension_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:729][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_House_Base_Long_Extension_01.SM_Bld_House_Base_Long_Extension_01
+[2021.07.30-09.19.14:732][730]LogStaticMesh: SM_Bld_House_Base_Pole_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:732][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_House_Base_Pole_01.SM_Bld_House_Base_Pole_01
+[2021.07.30-09.19.14:737][730]LogStaticMesh: SM_Bld_House_Door_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:738][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_House_Door_01.SM_Bld_House_Door_01
+[2021.07.30-09.19.14:748][730]LogStaticMesh: SM_Bld_Platform_Medium_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:758][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Platform_Medium_01.SM_Bld_Platform_Medium_01
+[2021.07.30-09.19.14:770][730]LogStaticMesh: SM_Bld_Platform_Medium_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:780][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Platform_Medium_02.SM_Bld_Platform_Medium_02
+[2021.07.30-09.19.14:791][730]LogStaticMesh: SM_Bld_Platform_Medium_Legs_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:797][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Platform_Medium_Legs_01.SM_Bld_Platform_Medium_Legs_01
+[2021.07.30-09.19.14:807][730]LogStaticMesh: SM_Bld_Platform_Small_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:814][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Platform_Small_01.SM_Bld_Platform_Small_01
+[2021.07.30-09.19.14:824][730]LogStaticMesh: SM_Bld_Platform_Small_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:831][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Platform_Small_02.SM_Bld_Platform_Small_02
+[2021.07.30-09.19.14:837][730]LogStaticMesh: SM_Bld_Platform_Small_Legs_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:840][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Platform_Small_Legs_01.SM_Bld_Platform_Small_Legs_01
+[2021.07.30-09.19.14:844][730]LogStaticMesh: SM_Bld_Platform_Stairs_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:846][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Platform_Stairs_01.SM_Bld_Platform_Stairs_01
+[2021.07.30-09.19.14:852][730]LogStaticMesh: SM_Bld_Temple_Base_Medium_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:855][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Temple_Base_Medium_01.SM_Bld_Temple_Base_Medium_01
+[2021.07.30-09.19.14:861][730]LogStaticMesh: SM_Bld_Temple_Base_Small_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:863][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Temple_Base_Small_01.SM_Bld_Temple_Base_Small_01
+[2021.07.30-09.19.14:871][730]LogStaticMesh: SM_Bld_Temple_Door_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:878][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Temple_Door_01.SM_Bld_Temple_Door_01
+[2021.07.30-09.19.14:889][730]LogStaticMesh: SM_Bld_Temple_Door_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:900][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Temple_Door_02.SM_Bld_Temple_Door_02
+[2021.07.30-09.19.14:908][730]LogStaticMesh: SM_Bld_Temple_Roof_Addon_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:912][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Temple_Roof_Addon_01.SM_Bld_Temple_Roof_Addon_01
+[2021.07.30-09.19.14:933][730]LogStaticMesh: SM_Bld_Temple_Roof_Large_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:961][730]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Temple_Roof_Large_01.SM_Bld_Temple_Roof_Large_01
+[2021.07.30-09.19.14:979][730]LogStaticMesh: SM_Bld_Temple_Roof_Medium_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.14:993][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Temple_Roof_Medium_01.SM_Bld_Temple_Roof_Medium_01
+[2021.07.30-09.19.15:006][730]LogStaticMesh: SM_Bld_Temple_Roof_Small_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:015][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Buildings/SM_Bld_Temple_Roof_Small_01.SM_Bld_Temple_Roof_Small_01
+[2021.07.30-09.19.15:023][730]LogStaticMesh: SM_Env_Bridge_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:026][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Bridge_01.SM_Env_Bridge_01
+[2021.07.30-09.19.15:031][730]LogStaticMesh: SM_Env_Bridge_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:034][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Bridge_02.SM_Env_Bridge_02
+[2021.07.30-09.19.15:038][730]LogStaticMesh: SM_Env_Bridge_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:040][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Bridge_03.SM_Env_Bridge_03
+[2021.07.30-09.19.15:054][730]LogStaticMesh: SM_Env_Bridge_Curved_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:068][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Bridge_Curved_01.SM_Env_Bridge_Curved_01
+[2021.07.30-09.19.15:077][730]LogStaticMesh: SM_Env_Bush_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:080][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Bush_01.SM_Env_Bush_01
+[2021.07.30-09.19.15:083][730]LogStaticMesh: SM_Env_Bush_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:085][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Bush_02.SM_Env_Bush_02
+[2021.07.30-09.19.15:088][730]LogStaticMesh: SM_Env_Bush_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:089][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Bush_03.SM_Env_Bush_03
+[2021.07.30-09.19.15:105][730]LogStaticMesh: SM_Env_Cliff_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:123][730]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Cliff_01.SM_Env_Cliff_01
+[2021.07.30-09.19.15:144][730]LogStaticMesh: SM_Env_Cliff_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:163][730]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Cliff_02.SM_Env_Cliff_02
+[2021.07.30-09.19.15:172][730]LogStaticMesh: SM_Env_Cloud_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:174][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Cloud_01.SM_Env_Cloud_01
+[2021.07.30-09.19.15:178][730]LogStaticMesh: SM_Env_Cloud_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:180][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Cloud_02.SM_Env_Cloud_02
+[2021.07.30-09.19.15:187][730]LogStaticMesh: SM_Env_Cloud_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:191][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Cloud_03.SM_Env_Cloud_03
+[2021.07.30-09.19.15:195][730]LogStaticMesh: SM_Env_CropRow_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:196][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_CropRow_01.SM_Env_CropRow_01
+[2021.07.30-09.19.15:202][730]LogStaticMesh: SM_Env_GroundMound_05 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:206][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_GroundMound_05.SM_Env_GroundMound_05
+[2021.07.30-09.19.15:215][730]LogStaticMesh: SM_Env_GroundMound_Fuji_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:221][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_GroundMound_Fuji_01.SM_Env_GroundMound_Fuji_01
+[2021.07.30-09.19.15:230][730]LogStaticMesh: SM_Env_Hill_Cascade_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:237][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Hill_Cascade_01.SM_Env_Hill_Cascade_01
+[2021.07.30-09.19.15:246][730]LogStaticMesh: SM_Env_Hill_Cascade_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:252][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Hill_Cascade_02.SM_Env_Hill_Cascade_02
+[2021.07.30-09.19.15:257][730]LogStaticMesh: SM_Env_Plant_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:258][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Plant_02.SM_Env_Plant_02
+[2021.07.30-09.19.15:263][730]LogStaticMesh: SM_Env_Plant_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:265][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Plant_03.SM_Env_Plant_03
+[2021.07.30-09.19.15:270][730]LogStaticMesh: SM_Env_PondEdge_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:272][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_PondEdge_01.SM_Env_PondEdge_01
+[2021.07.30-09.19.15:277][730]LogStaticMesh: SM_Env_PondEdge_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:279][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_PondEdge_02.SM_Env_PondEdge_02
+[2021.07.30-09.19.15:284][730]LogStaticMesh: SM_Env_PondEdge_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:287][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_PondEdge_03.SM_Env_PondEdge_03
+[2021.07.30-09.19.15:289][730]LogStaticMesh: SM_Env_PondEdge_04 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:290][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_PondEdge_04.SM_Env_PondEdge_04
+[2021.07.30-09.19.15:293][730]LogStaticMesh: SM_Env_PondGround_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:295][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_PondGround_01.SM_Env_PondGround_01
+[2021.07.30-09.19.15:298][730]LogStaticMesh: SM_Env_PondGround_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:300][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_PondGround_02.SM_Env_PondGround_02
+[2021.07.30-09.19.15:302][730]LogStaticMesh: SM_Env_RicePlant_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:304][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_RicePlant_01.SM_Env_RicePlant_01
+[2021.07.30-09.19.15:308][730]LogStaticMesh: SM_Env_RicePlant_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:311][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_RicePlant_02.SM_Env_RicePlant_02
+[2021.07.30-09.19.15:313][730]LogStaticMesh: SM_Env_Rock_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:313][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Rock_01.SM_Env_Rock_01
+[2021.07.30-09.19.15:315][730]LogStaticMesh: SM_Env_Rock_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:315][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Environment/SM_Env_Rock_02.SM_Env_Rock_02
+[2021.07.30-09.19.15:319][730]LogStaticMesh: SM_Prop_Paper_Lantern_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:321][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Paper_Lantern_01.SM_Prop_Paper_Lantern_01
+[2021.07.30-09.19.15:324][730]LogStaticMesh: SM_Prop_Paper_Lantern_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:326][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Paper_Lantern_02.SM_Prop_Paper_Lantern_02
+[2021.07.30-09.19.15:328][730]LogStaticMesh: SM_Prop_Pot_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:330][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Pot_01.SM_Prop_Pot_01
+[2021.07.30-09.19.15:334][730]LogStaticMesh: SM_Prop_Pot_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:337][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Pot_02.SM_Prop_Pot_02
+[2021.07.30-09.19.15:341][730]LogStaticMesh: SM_Prop_Pot_03 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:342][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Pot_03.SM_Prop_Pot_03
+[2021.07.30-09.19.15:345][730]LogStaticMesh: SM_Prop_Pot_04 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:348][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Pot_04.SM_Prop_Pot_04
+[2021.07.30-09.19.15:352][730]LogStaticMesh: SM_Prop_Pot_05 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:354][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Pot_05.SM_Prop_Pot_05
+[2021.07.30-09.19.15:375][730]LogStaticMesh: SM_Prop_Statue_Lion_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:396][730]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Statue_Lion_02.SM_Prop_Statue_Lion_02
+[2021.07.30-09.19.15:405][730]LogStaticMesh: SM_Prop_Stone_Lantern_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:409][730]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Stone_Lantern_01.SM_Prop_Stone_Lantern_01
+[2021.07.30-09.19.15:415][730]LogStaticMesh: SM_Prop_Stone_Lantern_02 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:420][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_Stone_Lantern_02.SM_Prop_Stone_Lantern_02
+[2021.07.30-09.19.15:429][730]LogStaticMesh: SM_Prop_StoneBrazier_01 스태틱 메시 빌드중...
+[2021.07.30-09.19.15:434][730]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonSamurai/Meshes/Props/SM_Prop_StoneBrazier_01.SM_Prop_StoneBrazier_01
+[2021.07.30-09.19.15:469][730]LogAssetEditorSubsystem: Opening Asset editor for World /Game/PolygonSamurai/Maps/Overview.Overview
+[2021.07.30-09.19.15:470][730]Cmd: MAP LOAD FILE="E:/BallAwayMap/Content/PolygonSamurai/Maps/Overview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.30-09.19.15:470][730]LightingResults: New page: 라이팅 빌드
+[2021.07.30-09.19.15:470][730]LoadErrors: New page: 맵 로드중: Overview.umap
+[2021.07.30-09.19.15:471][730]LogWorld: UWorld::CleanupWorld for Default, bSessionEnded=true, bCleanupResources=true
+[2021.07.30-09.19.15:471][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.30-09.19.15:471][730]MapCheck: New page: 맵 체크
+[2021.07.30-09.19.15:471][730]LightingResults: New page: 라이팅 빌드
+[2021.07.30-09.19.15:478][730]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.30-09.19.15:481][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.07.30-09.19.15:484][730]LogAudio: Display: Audio Device (ID: 1) registered with world 'Overview'.
+[2021.07.30-09.19.15:488][730]LogTexture: Display: 텍스처 빌드: DeprecatedTexture227B8C144529206AA27298A6285D1336 (BGRA8, 128X128)
+[2021.07.30-09.19.15:629][730]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2021.07.30-09.19.15:630][730]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.07.30-09.19.15:631][730]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.30-09.19.15:631][730]LogAIModule: Creating AISystem for world Overview
+[2021.07.30-09.19.15:643][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.07.30-09.19.15:646][730]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.30-09.19.15:647][730]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.142ms.
+[2021.07.30-09.19.15:647][730]LogFileHelpers: Loading map 'Overview' took 0.176
+[2021.07.30-09.19.15:659][730]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.07.30-09.19.15:676][730]AssetCheck: New page: 애셋 저장: Default
+[2021.07.30-09.19.15:676][730]LogContentValidation: Display: World /Game/Maps/Default.Default 유효성 검사
+[2021.07.30-09.19.15:678][730]LogLinker: Warning: [AssetLog] E:\BallAwayMap\Content\Maps\Default.umap: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2021.07.30-09.19.15:678][730]LogLinker: Warning: [AssetLog] E:\BallAwayMap\Content\Maps\Default.umap: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2021.07.30-09.19.15:678][730]LogLinker: Warning: [AssetLog] E:\BallAwayMap\Content\Maps\Default.umap: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2021.07.30-09.19.15:680][730]LogLinker: Warning: [AssetLog] E:\BallAwayMap\Content\Maps\Default.umap: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2021.07.30-09.19.15:680][730]LoadErrors: 로드에 실패했습니다. /Game/Maps/Default_BuiltData.Default_BuiltData 참조한 것: PersistentLevel
+[2021.07.30-09.19.15:842][731]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.07.30-09.19.15:879][731]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.07.30-09.19.15:907][731]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.07.30-09.19.16:000][736]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.07.30-09.19.16:319][768]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.07.30-09.19.21:038][323]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Snow_Tree_04)
+[2021.07.30-09.19.32:929][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.07.30-09.19.32:943][710]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Default.Default
+[2021.07.30-09.19.32:943][710]Cmd: MAP LOAD FILE="E:/BallAwayMap/Content/Maps/Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.30-09.19.32:943][710]LightingResults: New page: 라이팅 빌드
+[2021.07.30-09.19.32:943][710]LoadErrors: New page: 맵 로드중: Default.umap
+[2021.07.30-09.19.32:946][710]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2021.07.30-09.19.32:946][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.30-09.19.32:946][710]MapCheck: New page: 맵 체크
+[2021.07.30-09.19.32:946][710]LightingResults: New page: 라이팅 빌드
+[2021.07.30-09.19.32:949][710]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.30-09.19.32:952][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.07.30-09.19.32:952][710]LogAudio: Display: Audio Device (ID: 1) registered with world 'Default'.
+[2021.07.30-09.19.32:997][710]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.30-09.19.32:997][710]LogAIModule: Creating AISystem for world Default
+[2021.07.30-09.19.33:002][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.07.30-09.19.33:004][710]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.30-09.19.33:004][710]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.059ms.
+[2021.07.30-09.19.33:004][710]LogFileHelpers: Loading map 'Default' took 0.061
+[2021.07.30-09.19.38:713][387]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2021.07.30-09.20.01:381][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Default" FILE="E:/BallAwayMap/Content/Maps/Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.30-09.20.01:383][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.07.30-09.20.01:390][ 80]LogSavePackage: Moving 'E:/BallAwayMap/Saved/DefaultBA2E6B8647DFE24ACDEA9FB87451F48E.tmp' to 'E:/BallAwayMap/Content/Maps/Default.umap'
+[2021.07.30-09.20.01:405][ 80]AssetCheck: New page: 애셋 저장: Default
+[2021.07.30-09.20.01:405][ 80]LogContentValidation: Display: World /Game/Maps/Default.Default 유효성 검사
+[2021.07.30-09.21.29:142][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Default" FILE="E:/BallAwayMap/Content/Maps/Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.30-09.21.29:144][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.07.30-09.21.29:151][695]LogSavePackage: Moving 'E:/BallAwayMap/Saved/DefaultF92EC7114967D2D165570A8E0A78DDE1.tmp' to 'E:/BallAwayMap/Content/Maps/Default.umap'
+[2021.07.30-09.21.29:162][695]AssetCheck: New page: 애셋 저장: Default
+[2021.07.30-09.21.29:162][695]LogContentValidation: Display: World /Game/Maps/Default.Default 유효성 검사
+[2021.07.30-09.21.31:182][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.07.30-09.21.31:207][934]LogSlate: Window 'BATestMap - 언리얼 에디터' being destroyed
+[2021.07.30-09.21.31:432][935]Cmd: QUIT_EDITOR
+[2021.07.30-09.21.31:432][935]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.07.30-09.21.31:435][935]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.07.30-09.21.31:438][935]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.07.30-09.21.31:438][935]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.07.30-09.21.31:438][935]LogAudio: Display: Audio Device unregistered from world 'Default'.
+[2021.07.30-09.21.31:438][935]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.30-09.21.31:439][935]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.30-09.21.31:454][935]LogAudio: Display: Audio Device Manager Shutdown
+[2021.07.30-09.21.31:457][935]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (Microsoft 입력기).
+[2021.07.30-09.21.31:460][935]LogExit: Preparing to exit.
+[2021.07.30-09.21.32:607][935]LogDeviceProfile: Device profile begin destroy: [000001E031673E00] Windows
+[2021.07.30-09.21.32:607][935]LogDeviceProfile: Device profile begin destroy: [000001E031673D00] Default__DeviceProfile
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031614300] WindowsNoEditor
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031670300] WindowsServer
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031617A00] WindowsClient
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031673B00] IOS
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031614700] iPadAir
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031670600] iPadAir2
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0315E9700] IPadPro
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0315E9800] iPadAir3
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031673800] iPadAir4
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0315E8800] iPadMini2
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031670200] iPadMini3
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0315EA100] iPadMini4
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031673500] iPadMini5
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031616600] iPhone6
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031616500] iPodTouch6
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0315EBD00] iPhone7
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0315EBC00] iPodTouch7
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031616C00] iPhone5S
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0315E9500] iPhone6Plus
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031615F00] iPhone6S
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0315EB500] iPhone6SPlus
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031616B00] iPhone7Plus
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0315EBF00] iPhoneSE
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031615A00] iPhone8
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0315EB000] iPhone8Plus
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031617700] iPhoneX
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0315E8300] iPhoneXS
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031616F00] iPhoneXSMax
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0315E9000] iPhoneXR
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031617D00] iPhone11
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0315E8700] iPhone11Pro
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031616A00] iPhone11ProMax
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0315E8A00] iPhoneSE2
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031615C00] iPhone12Mini
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0315EA000] iPhone12
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031615300] iPhone12Pro
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0315E8E00] iPhone12ProMax
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031616300] iPadPro105
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0315E9D00] iPadPro129
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031614F00] iPadPro97
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0315EB200] iPadPro2_129
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031615400] iPad5
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0315E9A00] iPad6
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031614400] iPad7
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0315EA500] iPad8
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031614B00] iPadPro11
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0315EA300] iPadPro2_11
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031615D00] iPadPro3_129
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0315EB300] iPadPro4_129
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031615800] AppleTV
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0315EB600] AppleTV4K
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031615200] TVOS
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0315E8F00] Mac
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031616400] MacClient
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0315EB900] MacNoEditor
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031614100] MacServer
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0315EA700] Linux
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031614500] LinuxAArch64
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0315E8200] LinuxNoEditor
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031616200] LinuxAArch64NoEditor
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0315EAD00] LinuxClient
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031614200] LinuxAArch64Client
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0315EA200] LinuxServer
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031617B00] LinuxAArch64Server
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0315E9E00] Android
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031617900] Android_Low
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031670900] Android_Mid
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0307F5600] Android_High
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031670F00] Android_Default
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0307F4600] Android_Adreno4xx
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031671900] Android_Adreno5xx_Low
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0307F5B00] Android_Adreno5xx
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031672A00] Android_Adreno6xx
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0307F4400] Android_Adreno6xx_Vulkan
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031673A00] Android_Mali_T6xx
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0307F4F00] Android_Mali_T7xx
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031672100] Android_Mali_T8xx
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0307F5C00] Android_Mali_G71
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031672E00] Android_Mali_G72
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0307F4E00] Android_Mali_G72_Vulkan
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031671A00] Android_Mali_G76
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0307F5300] Android_Mali_G76_Vulkan
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031670500] Android_Mali_G77
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0307F4D00] Android_Mali_G77_Vulkan
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031673300] Android_Vulkan_SM5
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E0307F4A00] Android_PowerVR_G6xxx
+[2021.07.30-09.21.32:608][935]LogDeviceProfile: Device profile begin destroy: [000001E031672C00] Android_PowerVR_GT7xxx
+[2021.07.30-09.21.32:609][935]LogDeviceProfile: Device profile begin destroy: [000001E0307F4900] Android_PowerVR_GE8xxx
+[2021.07.30-09.21.32:609][935]LogDeviceProfile: Device profile begin destroy: [000001E031672400] Android_PowerVR_GM9xxx
+[2021.07.30-09.21.32:609][935]LogDeviceProfile: Device profile begin destroy: [000001E031616100] Android_PowerVR_GM9xxx_Vulkan
+[2021.07.30-09.21.32:609][935]LogDeviceProfile: Device profile begin destroy: [000001E031670E00] Android_TegraK1
+[2021.07.30-09.21.32:609][935]LogDeviceProfile: Device profile begin destroy: [000001E031614C00] Android_Unknown_Vulkan
+[2021.07.30-09.21.32:609][935]LogDeviceProfile: Device profile begin destroy: [000001E031670800] Lumin
+[2021.07.30-09.21.32:609][935]LogDeviceProfile: Device profile begin destroy: [000001E031614900] Lumin_Desktop
+[2021.07.30-09.21.32:609][935]LogDeviceProfile: Device profile begin destroy: [000001E031671200] HoloLens
+[2021.07.30-09.21.32:621][935]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.30-09.21.32:621][935]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.30-09.21.32:621][935]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.30-09.21.32:621][935]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.30-09.21.32:621][935]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.30-09.21.32:621][935]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.30-09.21.32:621][935]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.30-09.21.32:621][935]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.07.30-09.21.32:621][935]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.30-09.21.32:621][935]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.30-09.21.32:621][935]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.30-09.21.32:621][935]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.30-09.21.32:621][935]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.30-09.21.32:621][935]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.30-09.21.32:621][935]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.30-09.21.32:621][935]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.07.30-09.21.32:640][935]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.07.30-09.21.32:646][935]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.07.30-09.21.32:646][935]LogExit: Editor shut down
+[2021.07.30-09.21.32:647][935]LogExit: Transaction tracking system shut down
+[2021.07.30-09.21.32:804][935]LogExit: Object subsystem successfully closed.
+[2021.07.30-09.21.32:823][935]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.07.30-09.21.32:833][935]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (822)
+[2021.07.30-09.21.32:833][935]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (820)
+[2021.07.30-09.21.32:833][935]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (818)
+[2021.07.30-09.21.32:833][935]LogModuleManager: Shutting down and abandoning module SceneOutliner (816)
+[2021.07.30-09.21.32:833][935]LogModuleManager: Shutting down and abandoning module AddContentDialog (814)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module WidgetCarousel (813)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module EditorWidgets (810)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module StatsViewer (808)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (806)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (804)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module AutomationWorker (802)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module SteamVREditor (800)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module OculusMR (798)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module GooglePADEditor (796)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (794)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (792)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (790)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (788)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (786)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module PlanarCut (784)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (782)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (780)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (778)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (776)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (774)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (772)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (770)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module WebMMedia (768)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (766)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (764)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module SequenceRecorder (763)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (760)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (758)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (756)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (754)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (752)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (750)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (748)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module CharacterAI (746)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module TextureAlignMode (744)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module BspMode (742)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module GeometryMode (740)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (738)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module SmartSnapping (736)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module SessionServices (734)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module MeshPaint (732)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (730)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module FoliageEdit (728)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module LandscapeEditor (726)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module MeshPaintMode (724)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (722)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module ActorPickerMode (720)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module PlacementMode (718)
+[2021.07.30-09.21.32:834][935]LogModuleManager: Shutting down and abandoning module ViewportSnapping (716)
+[2021.07.30-09.21.32:835][935]LogModuleManager: Shutting down and abandoning module ViewportInteraction (714)
+[2021.07.30-09.21.32:835][935]LogModuleManager: Shutting down and abandoning module ClothPainter (712)
+[2021.07.30-09.21.32:835][935]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (711)
+[2021.07.30-09.21.32:835][935]LogModuleManager: Shutting down and abandoning module LogVisualizer (708)
+[2021.07.30-09.21.32:835][935]LogModuleManager: Shutting down and abandoning module IntroTutorials (706)
+[2021.07.30-09.21.32:835][935]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (705)
+[2021.07.30-09.21.32:835][935]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (702)
+[2021.07.30-09.21.32:835][935]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (700)
+[2021.07.30-09.21.32:835][935]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (698)
+[2021.07.30-09.21.32:835][935]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (697)
+[2021.07.30-09.21.34:446][935]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (694)
+[2021.07.30-09.21.34:446][935]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (692)
+[2021.07.30-09.21.34:446][935]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (690)
+[2021.07.30-09.21.34:446][935]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (688)
+[2021.07.30-09.21.34:446][935]LogModuleManager: Shutting down and abandoning module TraceInsights (686)
+[2021.07.30-09.21.34:446][935]MemoryProfiler: Shutdown
+[2021.07.30-09.21.34:446][935]NetworkingProfiler: Shutdown
+[2021.07.30-09.21.34:446][935]LoadingProfiler: Shutdown
+[2021.07.30-09.21.34:447][935]TimingProfiler: Shutdown
+[2021.07.30-09.21.34:447][935]LogModuleManager: Shutting down and abandoning module TraceServices (685)
+[2021.07.30-09.21.34:447][935]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (682)
+[2021.07.30-09.21.34:447][935]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (680)
+[2021.07.30-09.21.34:447][935]LogModuleManager: Shutting down and abandoning module InputBindingEditor (678)
+[2021.07.30-09.21.34:447][935]LogModuleManager: Shutting down and abandoning module MergeActors (676)
+[2021.07.30-09.21.34:447][935]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (674)
+[2021.07.30-09.21.34:447][935]LogModuleManager: Shutting down and abandoning module LocalizationService (673)
+[2021.07.30-09.21.34:447][935]LogModuleManager: Shutting down and abandoning module HardwareTargeting (670)
+[2021.07.30-09.21.34:447][935]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (668)
+[2021.07.30-09.21.34:447][935]LogModuleManager: Shutting down and abandoning module UndoHistory (666)
+[2021.07.30-09.21.34:447][935]LogModuleManager: Shutting down and abandoning module XmlParser (664)
+[2021.07.30-09.21.34:447][935]LogModuleManager: Shutting down and abandoning module Blutility (662)
+[2021.07.30-09.21.34:447][935]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (660)
+[2021.07.30-09.21.34:447][935]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (659)
+[2021.07.30-09.21.34:447][935]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (656)
+[2021.07.30-09.21.34:447][935]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (655)
+[2021.07.30-09.21.34:447][935]LogModuleManager: Shutting down and abandoning module SettingsEditor (652)
+[2021.07.30-09.21.34:447][935]LogModuleManager: Shutting down and abandoning module ProjectLauncher (650)
+[2021.07.30-09.21.34:447][935]LogModuleManager: Shutting down and abandoning module SessionFrontend (648)
+[2021.07.30-09.21.34:447][935]LogModuleManager: Shutting down and abandoning module ProfilerClient (646)
+[2021.07.30-09.21.34:447][935]LogModuleManager: Shutting down and abandoning module DeviceManager (644)
+[2021.07.30-09.21.34:447][935]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (643)
+[2021.07.30-09.21.34:490][935]LogModuleManager: Shutting down and abandoning module AutomationController (640)
+[2021.07.30-09.21.34:490][935]LogModuleManager: Shutting down and abandoning module AutomationWindow (638)
+[2021.07.30-09.21.34:490][935]LogModuleManager: Shutting down and abandoning module Layers (636)
+[2021.07.30-09.21.34:490][935]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (634)
+[2021.07.30-09.21.34:490][935]LogModuleManager: Shutting down and abandoning module DetailCustomizations (632)
+[2021.07.30-09.21.34:490][935]LogModuleManager: Shutting down and abandoning module PackagesDialog (630)
+[2021.07.30-09.21.34:490][935]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (628)
+[2021.07.30-09.21.34:490][935]LogModuleManager: Shutting down and abandoning module Persona (626)
+[2021.07.30-09.21.34:490][935]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (625)
+[2021.07.30-09.21.34:490][935]LogModuleManager: Shutting down and abandoning module AnimGraph (623)
+[2021.07.30-09.21.34:490][935]LogModuleManager: Shutting down and abandoning module Kismet (620)
+[2021.07.30-09.21.34:490][935]LogModuleManager: Shutting down and abandoning module KismetWidgets (619)
+[2021.07.30-09.21.34:490][935]LogModuleManager: Shutting down and abandoning module GraphEditor (616)
+[2021.07.30-09.21.34:490][935]LogModuleManager: Shutting down and abandoning module StructViewer (614)
+[2021.07.30-09.21.34:490][935]LogModuleManager: Shutting down and abandoning module ClassViewer (612)
+[2021.07.30-09.21.34:490][935]LogModuleManager: Shutting down and abandoning module Toolbox (610)
+[2021.07.30-09.21.34:490][935]LogModuleManager: Shutting down and abandoning module ModuleUI (608)
+[2021.07.30-09.21.34:490][935]LogModuleManager: Shutting down and abandoning module OutputLog (606)
+[2021.07.30-09.21.34:491][935]LogModuleManager: Shutting down and abandoning module GammaUI (604)
+[2021.07.30-09.21.34:491][935]LogModuleManager: Shutting down and abandoning module Documentation (602)
+[2021.07.30-09.21.34:491][935]LogModuleManager: Shutting down and abandoning module LiveCoding (600)
+[2021.07.30-09.21.34:491][935]LogModuleManager: Shutting down and abandoning module LevelSequence (598)
+[2021.07.30-09.21.34:491][935]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (596)
+[2021.07.30-09.21.34:491][935]LogModuleManager: Shutting down and abandoning module MovieScene (594)
+[2021.07.30-09.21.34:491][935]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (592)
+[2021.07.30-09.21.34:491][935]LogModuleManager: Shutting down and abandoning module LauncherPlatform (590)
+[2021.07.30-09.21.34:491][935]LogModuleManager: Shutting down and abandoning module AnalyticsET (588)
+[2021.07.30-09.21.34:491][935]LogModuleManager: Shutting down and abandoning module PortalServices (586)
+[2021.07.30-09.21.34:491][935]LogModuleManager: Shutting down and abandoning module PortalRpc (584)
+[2021.07.30-09.21.34:491][935]LogModuleManager: Shutting down and abandoning module MessagingRpc (582)
+[2021.07.30-09.21.34:491][935]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (580)
+[2021.07.30-09.21.34:491][935]LogModuleManager: Shutting down and abandoning module AudioMixerCore (579)
+[2021.07.30-09.21.34:491][935]LogModuleManager: Shutting down and abandoning module AIModule (576)
+[2021.07.30-09.21.34:491][935]LogModuleManager: Shutting down and abandoning module GameplayDebugger (575)
+[2021.07.30-09.21.34:491][935]LogModuleManager: Shutting down and abandoning module AITestSuite (573)
+[2021.07.30-09.21.34:491][935]LogModuleManager: Shutting down and abandoning module NavigationSystem (571)
+[2021.07.30-09.21.34:491][935]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (568)
+[2021.07.30-09.21.34:494][935]LogModuleManager: Shutting down and abandoning module ProfilerService (566)
+[2021.07.30-09.21.34:653][935]LogModuleManager: Shutting down and abandoning module TaskGraph (564)
+[2021.07.30-09.21.34:653][935]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (562)
+[2021.07.30-09.21.34:653][935]LogModuleManager: Shutting down and abandoning module OculusEditor (560)
+[2021.07.30-09.21.34:653][935]LogModuleManager: Shutting down and abandoning module OculusInput (558)
+[2021.07.30-09.21.34:653][935]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (556)
+[2021.07.30-09.21.34:653][935]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (554)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module CollectionManager (553)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module SynthesisEditor (550)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module Synthesis (548)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (546)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (544)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (542)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module ScreenshotTools (540)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module GooglePAD (538)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module EditableMesh (536)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (534)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module CableComponent (532)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module AudioCapture (530)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (529)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module AssetTags (526)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (524)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (522)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module AppleImageUtils (520)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module AndroidPermission (518)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (516)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (514)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module TemplateSequence (512)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (510)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module MotoSynth (508)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (506)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (504)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (502)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (500)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (498)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module MediaCompositing (496)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module ImgMedia (494)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (492)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (491)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (488)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module MeshConversion (486)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module DynamicMesh (484)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (482)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module GeometricObjects (480)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (478)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (476)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (474)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (472)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module FractureEditor (470)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module ChaosNiagara (468)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (467)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (464)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module BackChannel (462)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (460)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module AutomationUtils (458)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module AlembicImporter (456)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module AlembicLibrary (455)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module GeometryCache (454)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (453)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (448)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (446)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (444)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (442)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (440)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module UObjectPlugin (438)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (436)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (434)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module PluginUtils (432)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (430)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (428)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module GitSourceControl (426)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module SourceControl (425)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (422)
+[2021.07.30-09.21.34:654][935]LogModuleManager: Shutting down and abandoning module PluginBrowser (420)
+[2021.07.30-09.21.34:655][935]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (418)
+[2021.07.30-09.21.34:655][935]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (416)
+[2021.07.30-09.21.34:655][935]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (414)
+[2021.07.30-09.21.34:655][935]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (412)
+[2021.07.30-09.21.34:655][935]LogModuleManager: Shutting down and abandoning module CurveEditorTools (410)
+[2021.07.30-09.21.34:655][935]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (408)
+[2021.07.30-09.21.34:655][935]LogModuleManager: Shutting down and abandoning module CryptoKeys (406)
+[2021.07.30-09.21.34:655][935]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (404)
+[2021.07.30-09.21.34:655][935]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (402)
+[2021.07.30-09.21.34:655][935]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (400)
+[2021.07.30-09.21.34:655][935]LogModuleManager: Shutting down and abandoning module Paper2DEditor (398)
+[2021.07.30-09.21.34:655][935]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (396)
+[2021.07.30-09.21.34:655][935]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (394)
+[2021.07.30-09.21.34:655][935]LogModuleManager: Shutting down and abandoning module BATestMap (392)
+[2021.07.30-09.21.34:655][935]LogModuleManager: Shutting down and abandoning module SoundFields (390)
+[2021.07.30-09.21.34:655][935]LogModuleManager: Shutting down and abandoning module SignificanceManager (388)
+[2021.07.30-09.21.34:655][935]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (386)
+[2021.07.30-09.21.34:655][935]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (384)
+[2021.07.30-09.21.34:655][935]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (382)
+[2021.07.30-09.21.34:655][935]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (378)
+[2021.07.30-09.21.34:655][935]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (376)
+[2021.07.30-09.21.34:655][935]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (374)
+[2021.07.30-09.21.34:655][935]LogModuleManager: Shutting down and abandoning module ActorSequence (372)
+[2021.07.30-09.21.34:655][935]LogModuleManager: Shutting down and abandoning module TcpMessaging (370)
+[2021.07.30-09.21.34:756][935]LogModuleManager: Shutting down and abandoning module UdpMessaging (368)
+[2021.07.30-09.21.34:857][935]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (366)
+[2021.07.30-09.21.34:857][935]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (364)
+[2021.07.30-09.21.34:857][935]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (362)
+[2021.07.30-09.21.34:857][935]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (360)
+[2021.07.30-09.21.34:857][935]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (358)
+[2021.07.30-09.21.34:857][935]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.07.30-09.21.34:857][935]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (356)
+[2021.07.30-09.21.34:857][935]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (354)
+[2021.07.30-09.21.34:857][935]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (352)
+[2021.07.30-09.21.34:857][935]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (350)
+[2021.07.30-09.21.34:857][935]LogModuleManager: Shutting down and abandoning module MagicLeapController (348)
+[2021.07.30-09.21.34:857][935]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.07.30-09.21.34:857][935]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (346)
+[2021.07.30-09.21.34:857][935]LogModuleManager: Shutting down and abandoning module MagicLeapAR (344)
+[2021.07.30-09.21.34:857][935]LogModuleManager: Shutting down and abandoning module AugmentedReality (343)
+[2021.07.30-09.21.34:857][935]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (340)
+[2021.07.30-09.21.34:857][935]LogModuleManager: Shutting down and abandoning module Niagara (338)
+[2021.07.30-09.21.34:857][935]LogModuleManager: Shutting down and abandoning module SignalProcessing (337)
+[2021.07.30-09.21.34:857][935]LogModuleManager: Shutting down and abandoning module NiagaraEditor (335)
+[2021.07.30-09.21.34:857][935]LogModuleManager: Shutting down and abandoning module NiagaraCore (332)
+[2021.07.30-09.21.34:857][935]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (330)
+[2021.07.30-09.21.34:857][935]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (328)
+[2021.07.30-09.21.34:857][935]LogModuleManager: Shutting down and abandoning module FacialAnimation (326)
+[2021.07.30-09.21.34:857][935]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (324)
+[2021.07.30-09.21.34:857][935]LogModuleManager: Shutting down and abandoning module AnimationSharing (322)
+[2021.07.30-09.21.34:857][935]LogModuleManager: Shutting down and abandoning module DataValidation (320)
+[2021.07.30-09.21.34:857][935]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (318)
+[2021.07.30-09.21.34:857][935]LogModuleManager: Shutting down and abandoning module LevelEditor (317)
+[2021.07.30-09.21.34:858][935]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (316)
+[2021.07.30-09.21.34:858][935]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (314)
+[2021.07.30-09.21.34:858][935]LogModuleManager: Shutting down and abandoning module MainFrame (312)
+[2021.07.30-09.21.34:858][935]LogModuleManager: Shutting down and abandoning module HotReload (311)
+[2021.07.30-09.21.34:858][935]LogModuleManager: Shutting down and abandoning module ToolMenus (307)
+[2021.07.30-09.21.34:858][935]LogModuleManager: Shutting down and abandoning module ContentBrowser (305)
+[2021.07.30-09.21.34:858][935]LogModuleManager: Shutting down and abandoning module ContentBrowserData (304)
+[2021.07.30-09.21.34:858][935]LogModuleManager: Shutting down and abandoning module TreeMap (301)
+[2021.07.30-09.21.34:858][935]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (298)
+[2021.07.30-09.21.34:858][935]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (296)
+[2021.07.30-09.21.34:858][935]LogModuleManager: Shutting down and abandoning module Paper2D (294)
+[2021.07.30-09.21.34:858][935]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (292)
+[2021.07.30-09.21.34:859][935]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (290)
+[2021.07.30-09.21.34:859][935]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (288)
+[2021.07.30-09.21.34:859][935]LogModuleManager: Shutting down and abandoning module PacketHandler (286)
+[2021.07.30-09.21.34:859][935]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (284)
+[2021.07.30-09.21.34:859][935]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (282)
+[2021.07.30-09.21.34:859][935]LogModuleManager: Shutting down and abandoning module MediaAssets (280)
+[2021.07.30-09.21.34:859][935]LogModuleManager: Shutting down and abandoning module Overlay (278)
+[2021.07.30-09.21.34:859][935]LogModuleManager: Shutting down and abandoning module OverlayEditor (277)
+[2021.07.30-09.21.34:859][935]LogModuleManager: Shutting down and abandoning module VREditor (274)
+[2021.07.30-09.21.34:859][935]LogModuleManager: Shutting down and abandoning module StringTableEditor (272)
+[2021.07.30-09.21.34:859][935]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (270)
+[2021.07.30-09.21.34:859][935]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (268)
+[2021.07.30-09.21.34:859][935]LogModuleManager: Shutting down and abandoning module FunctionalTesting (266)
+[2021.07.30-09.21.34:859][935]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (264)
+[2021.07.30-09.21.34:859][935]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (263)
+[2021.07.30-09.21.34:859][935]LogModuleManager: Shutting down and abandoning module UMG (260)
+[2021.07.30-09.21.34:859][935]LogModuleManager: Shutting down and abandoning module UMGEditor (259)
+[2021.07.30-09.21.34:859][935]LogModuleManager: Shutting down and abandoning module MessageLog (257)
+[2021.07.30-09.21.34:859][935]LogModuleManager: Shutting down and abandoning module SlateReflector (252)
+[2021.07.30-09.21.34:859][935]LogModuleManager: Shutting down and abandoning module Slate (250)
+[2021.07.30-09.21.34:859][935]LogModuleManager: Shutting down and abandoning module SlateCore (248)
+[2021.07.30-09.21.34:860][935]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (246)
+[2021.07.30-09.21.34:860][935]LogModuleManager: Shutting down and abandoning module UnrealEd (244)
+[2021.07.30-09.21.34:860][935]LogModuleManager: Shutting down and abandoning module MRMesh (242)
+[2021.07.30-09.21.34:860][935]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (240)
+[2021.07.30-09.21.34:860][935]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (238)
+[2021.07.30-09.21.34:860][935]LogModuleManager: Shutting down and abandoning module XAudio2 (236)
+[2021.07.30-09.21.34:860][935]LogModuleManager: Shutting down and abandoning module Networking (234)
+[2021.07.30-09.21.34:860][935]LogModuleManager: Shutting down and abandoning module Core (232)
+[2021.07.30-09.21.34:860][935]LogModuleManager: Shutting down and abandoning module MaterialEditor (230)
+[2021.07.30-09.21.34:860][935]LogModuleManager: Shutting down and abandoning module MovieSceneTools (228)
+[2021.07.30-09.21.34:860][935]LogModuleManager: Shutting down and abandoning module CurveEditor (227)
+[2021.07.30-09.21.34:860][935]LogModuleManager: Shutting down and abandoning module Sequencer (225)
+[2021.07.30-09.21.34:860][935]LogModuleManager: Shutting down and abandoning module EditorStyle (224)
+[2021.07.30-09.21.34:861][935]LogModuleManager: Shutting down and abandoning module KismetCompiler (220)
+[2021.07.30-09.21.34:861][935]LogModuleManager: Shutting down and abandoning module MeshBuilder (218)
+[2021.07.30-09.21.34:861][935]LogModuleManager: Shutting down and abandoning module MeshUtilities (216)
+[2021.07.30-09.21.34:861][935]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (215)
+[2021.07.30-09.21.34:861][935]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (214)
+[2021.07.30-09.21.34:861][935]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (213)
+[2021.07.30-09.21.34:861][935]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (211)
+[2021.07.30-09.21.34:861][935]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (209)
+[2021.07.30-09.21.34:861][935]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (207)
+[2021.07.30-09.21.34:861][935]LogModuleManager: Shutting down and abandoning module MaterialBaking (203)
+[2021.07.30-09.21.34:861][935]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (198)
+[2021.07.30-09.21.34:861][935]LogModuleManager: Shutting down and abandoning module DerivedDataCache (196)
+[2021.07.30-09.21.34:861][935]LogModuleManager: Shutting down and abandoning module TargetPlatform (194)
+[2021.07.30-09.21.34:861][935]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2021.07.30-09.21.34:861][935]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (191)
+[2021.07.30-09.21.34:861][935]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (189)
+[2021.07.30-09.21.34:861][935]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (187)
+[2021.07.30-09.21.34:861][935]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (185)
+[2021.07.30-09.21.34:861][935]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (183)
+[2021.07.30-09.21.34:861][935]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (181)
+[2021.07.30-09.21.34:861][935]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (179)
+[2021.07.30-09.21.34:861][935]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (177)
+[2021.07.30-09.21.34:862][935]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (175)
+[2021.07.30-09.21.34:862][935]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (173)
+[2021.07.30-09.21.34:862][935]LogModuleManager: Shutting down and abandoning module ImageWrapper (172)
+[2021.07.30-09.21.34:862][935]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (169)
+[2021.07.30-09.21.34:862][935]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (167)
+[2021.07.30-09.21.34:862][935]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (165)
+[2021.07.30-09.21.34:862][935]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (163)
+[2021.07.30-09.21.34:862][935]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (161)
+[2021.07.30-09.21.34:862][935]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (159)
+[2021.07.30-09.21.34:862][935]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (157)
+[2021.07.30-09.21.34:862][935]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (155)
+[2021.07.30-09.21.34:862][935]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (153)
+[2021.07.30-09.21.34:862][935]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (151)
+[2021.07.30-09.21.34:862][935]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (149)
+[2021.07.30-09.21.34:862][935]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (147)
+[2021.07.30-09.21.34:862][935]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (145)
+[2021.07.30-09.21.34:863][935]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (143)
+[2021.07.30-09.21.34:863][935]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (141)
+[2021.07.30-09.21.34:863][935]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (139)
+[2021.07.30-09.21.34:863][935]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (137)
+[2021.07.30-09.21.34:863][935]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (135)
+[2021.07.30-09.21.34:863][935]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (133)
+[2021.07.30-09.21.34:863][935]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (131)
+[2021.07.30-09.21.34:863][935]LogModuleManager: Shutting down and abandoning module Messaging (129)
+[2021.07.30-09.21.34:863][935]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (127)
+[2021.07.30-09.21.34:863][935]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (125)
+[2021.07.30-09.21.34:866][935]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (123)
+[2021.07.30-09.21.34:866][935]LogModuleManager: Shutting down and abandoning module InputCore (120)
+[2021.07.30-09.21.34:866][935]LogModuleManager: Shutting down and abandoning module Settings (118)
+[2021.07.30-09.21.34:866][935]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (116)
+[2021.07.30-09.21.34:866][935]LogModuleManager: Shutting down and abandoning module PhysXCooking (114)
+[2021.07.30-09.21.34:866][935]LogModuleManager: Shutting down and abandoning module Chaos (112)
+[2021.07.30-09.21.34:866][935]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (110)
+[2021.07.30-09.21.34:866][935]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (109)
+[2021.07.30-09.21.34:866][935]LogModuleManager: Shutting down and abandoning module AVEncoder (108)
+[2021.07.30-09.21.34:866][935]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (104)
+[2021.07.30-09.21.34:866][935]LogModuleManager: Shutting down and abandoning module SteamVRInput (102)
+[2021.07.30-09.21.34:866][935]LogModuleManager: Shutting down and abandoning module SteamVR (100)
+[2021.07.30-09.21.34:866][935]LogHMD: Freeing OpenVRDLLHandle.
+[2021.07.30-09.21.34:866][935]LogModuleManager: Shutting down and abandoning module OculusHMD (98)
+[2021.07.30-09.21.34:866][935]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (96)
+[2021.07.30-09.21.34:866][935]LogModuleManager: Shutting down and abandoning module ChunkDownloader (94)
+[2021.07.30-09.21.34:866][935]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2021.07.30-09.21.34:866][935]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2021.07.30-09.21.34:867][935]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2021.07.30-09.21.34:867][935]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2021.07.30-09.21.34:901][935]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2021.07.30-09.21.34:901][935]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.07.30-09.21.34:901][935]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B02396AAD-4E37-FC71-2DDF-27897719489C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=8d02034c44788bc9a7806cbe1a60dfab%7C0f121dc58a9549b28ab6a8436ab4e0e7%7C345b48d1-86c0-4e7b-9753-5c5b7819cfb6&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2021.07.30-09.21.34:901][935]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2021.07.30-09.21.34:931][935]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2021.07.30-09.21.34:932][935]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2021.07.30-09.21.34:932][935]LogModuleManager: Shutting down and abandoning module MLSDK (72)
+[2021.07.30-09.21.34:932][935]LogModuleManager: Shutting down and abandoning module WmfMedia (70)
+[2021.07.30-09.21.34:934][935]LogModuleManager: Shutting down and abandoning module Media (69)
+[2021.07.30-09.21.34:934][935]LogModuleManager: Shutting down and abandoning module MediaInfo (68)
+[2021.07.30-09.21.34:934][935]LogModuleManager: Shutting down and abandoning module MagicLeap (64)
+[2021.07.30-09.21.34:934][935]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (62)
+[2021.07.30-09.21.34:934][935]LogModuleManager: Shutting down and abandoning module ChaosCloth (60)
+[2021.07.30-09.21.34:934][935]LogModuleManager: Shutting down and abandoning module VariantManagerContent (58)
+[2021.07.30-09.21.34:934][935]LogModuleManager: Shutting down and abandoning module DatasmithContent (56)
+[2021.07.30-09.21.34:934][935]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (54)
+[2021.07.30-09.21.34:934][935]LogModuleManager: Shutting down and abandoning module NiagaraShader (52)
+[2021.07.30-09.21.34:934][935]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2021.07.30-09.21.34:934][935]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2021.07.30-09.21.34:934][935]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2021.07.30-09.21.34:934][935]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2021.07.30-09.21.34:934][935]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2021.07.30-09.21.34:934][935]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2021.07.30-09.21.34:934][935]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.07.30-09.21.34:934][935]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2021.07.30-09.21.34:934][935]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2021.07.30-09.21.34:935][935]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.07.30-09.21.34:935][935]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.07.30-09.21.34:935][935]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.07.30-09.21.34:935][935]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.07.30-09.21.34:938][935]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.07.30-09.21.34:938][935]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.07.30-09.21.34:938][935]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.07.30-09.21.34:938][935]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.07.30-09.21.34:938][935]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.07.30-09.21.34:938][935]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.07.30-09.21.34:938][935]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.07.30-09.21.34:938][935]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.07.30-09.21.34:938][935]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.07.30-09.21.34:938][935]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.07.30-09.21.34:938][935]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.07.30-09.21.34:938][935]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.07.30-09.21.34:938][935]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.07.30-09.21.34:941][935]LogD3D11RHI: Shutdown
+[2021.07.30-09.21.34:941][935]LogD3D11RHI: CleanupD3DDevice
+[2021.07.30-09.21.34:955][935]LogExit: Exiting.
+[2021.07.30-09.21.34:962][935]Log file closed, 07/30/21 18:21:34
