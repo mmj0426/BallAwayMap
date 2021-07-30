@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BATestMap.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\BallAwayMap\BATestMap\Intermediate\Build\Win64\BATestMapEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\BallAwayMap\BATestMap\Intermediate\Build\Win64\UE4Editor\Development\BATestMap\BATestMap.cpp.obj"
+"E:\BallAwayMap\BATestMap\Intermediate\Build\Win64\UE4Editor\Development\BATestMap\BATestMapGameModeBase.cpp.obj"
+"E:\BallAwayMap\BATestMap\Intermediate\Build\Win64\UE4Editor\Development\BATestMap\BATestMap.init.gen.cpp.obj"
+"E:\BallAwayMap\BATestMap\Intermediate\Build\Win64\UE4Editor\Development\BATestMap\BATestMapGameModeBase.gen.cpp.obj"
+"E:\BallAwayMap\BATestMap\Intermediate\Build\Win64\UE4Editor\Development\BATestMap\Default.rc2.res"
+/OUT:"E:\BallAwayMap\BATestMap\Intermediate\Build\Win64\UE4Editor\Development\BATestMap\UE4Editor-BATestMap.lib"
+/INCLUDE:IMPLEMENT_MODULE_BATestMap

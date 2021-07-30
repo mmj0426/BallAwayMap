@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\BallAwayMap\\BATestMap\\Source\\BATestMap\\BATestMap.Build.cs",
+		"E:\\BallAwayMap\\BATestMap\\Source\\BATestMap.Target.cs",
+		"E:\\BallAwayMap\\BATestMap\\Source\\BATestMapEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

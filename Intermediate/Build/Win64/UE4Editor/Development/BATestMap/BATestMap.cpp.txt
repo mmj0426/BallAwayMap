@@ -1,0 +1,2 @@
+E:\BallAwayMap\BATestMap\Intermediate\Build\Win64\UE4Editor\Development\BATestMap\Definitions.BATestMap.h
+E:\BallAwayMap\BATestMap\Source\BATestMap\BATestMap.h

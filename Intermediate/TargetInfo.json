@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BATestMap",
+			"Path": "E:\\BallAwayMap\\BATestMap\\Source\\BATestMap.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BATestMapEditor",
+			"Path": "E:\\BallAwayMap\\BATestMap\\Source\\BATestMapEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
