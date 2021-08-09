@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BATestMap.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{0A03B836-16F6-44AE-A729-04B53458FFD4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BATestMap.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BATestMapEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{2F81E916-2FA9-4396-9F00-3D13903D1CD2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BATestMap">
+      <UniqueIdentifier>{6AD08DF8-0FBF-4E2B-91AF-2C1F548B1CFD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BATestMap\BATestMap.Build.cs">
+      <Filter>Source\BATestMap</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BATestMap\BATestMap.cpp">
+      <Filter>Source\BATestMap</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BATestMap\BATestMap.h">
+      <Filter>Source\BATestMap</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BATestMap\BATestMapGameModeBase.cpp">
+      <Filter>Source\BATestMap</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BATestMap\BATestMapGameModeBase.h">
+      <Filter>Source\BATestMap</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

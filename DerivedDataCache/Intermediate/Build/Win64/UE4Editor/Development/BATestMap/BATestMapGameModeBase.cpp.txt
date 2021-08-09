@@ -1,0 +1,7 @@
+D:\USER\Downloads\BallAwayMap-main\BallAwayMap-main\Intermediate\Build\Win64\UE4Editor\Development\BATestMap\Definitions.BATestMap.h
+D:\USER\Downloads\BallAwayMap-main\BallAwayMap-main\Source\BATestMap\BATestMapGameModeBase.h
+D:\ProgramFile\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\ProgramFile\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\ProgramFile\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\ProgramFile\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\USER\Downloads\BallAwayMap-main\BallAwayMap-main\Intermediate\Build\Win64\UE4Editor\Inc\BATestMap\BATestMapGameModeBase.generated.h
